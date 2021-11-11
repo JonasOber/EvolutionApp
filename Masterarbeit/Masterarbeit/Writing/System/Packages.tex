@@ -1,0 +1,97 @@
+%---configure pagelayout
+%\KOMAoptions{ % read documentation for KOMAScript providing the documentclass scrartcl
+%	DIV=11,
+%	BCOR=0mm,
+%	paper=a4,
+%	fontsize=12pt,
+%	parskip=half,
+%	twoside=false,
+%	titlepage=true
+%}
+
+\usepackage[ %Set linespacing
+singlespacing %onehalfspacing,doublespacing
+]{setspace} 
+
+\usepackage[]{scrlayer-scrpage} %Configure headline and footer
+
+\clearmainofpairofpagestyles
+\setlength{\headheight}{2.5\baselineskip}
+%\ihead[]{\authA~(\matA)\\\authB~(\matB)\\\authC~(\matC)}
+
+\cfoot[]{\thepage}
+\usepackage[left=3cm,right=3cm,top=1.5cm,bottom=1cm,includeheadfoot]{geometry}
+
+%better positioning of floatings
+\renewcommand{\floatpagefraction}{.75} % standard: .5
+\renewcommand{\textfraction}{.1} % standard: .2
+\renewcommand{\topfraction}{.8} % standard: .7
+\renewcommand{\bottomfraction}{.5} % standard: .3
+\setcounter{topnumber}{3} % standard: 2
+\setcounter{bottomnumber}{2} % standard: 1
+\setcounter{totalnumber}{5} % standard: 3
+
+%---Language and umlauts
+\usepackage[utf8]{inputenc} %Set UTF-8 encoding, enables ä,ö,ü etc.
+\usepackage[english]{babel} %Set document language to ngerman (new german)  
+\usepackage[% improved hyphenation
+expansion=true,
+protrusion=true
+]{microtype}
+
+%---Mathmatics (AMS packages )
+\usepackage{amsmath} %generell math enviorments e.g. align
+\usepackage{amsfonts}
+\usepackage{amssymb} 
+\usepackage{amsthm} %math theorems
+\usepackage{upgreek}%provide special form of greek letters e.g. \upmu
+
+%---Units
+\usepackage{siunitx}
+
+%---tables and imgaes
+\usepackage{graphicx} %provide \includegraphics[options]{name}
+\usepackage{epstopdf} %enable the use of eps-graphics
+\usepackage[hypcap, labelfont=bf]{caption} %captions out of floating-enviorments(figure,table)
+\usepackage{booktabs} %extra lines in tabulars
+\usepackage{flafter} %Place floating-enviorments after references.
+\usepackage{placeins}
+
+%---Hyperlinks
+\usepackage{hyperref} %create table of content and references as links
+
+%---Tikz package
+\usepackage{tikz}
+\hypersetup{
+	%
+	%Colors 
+	colorlinks=true, 
+	breaklinks=true, 
+	citecolor=red, 
+	linkcolor=black, 
+	menucolor=red, 
+	urlcolor=cyan,
+	%
+	%pdf-bookmarks
+	bookmarksopen=false, 
+	bookmarksopenlevel=0,
+	% 
+	%pdf-data
+	% pdftitle={\titel}, 
+	% pdfauthor={\writer}, 
+	% pdfcreator={\writer}, 
+	% pdfsubject={\titel}, 
+	% pdfkeywords={\titel} 
+	%
+	%misc
+	plainpages=false,% zur korrekten Erstellung der Bookmarks 
+	hypertexnames=false,% zur korrekten Erstellung der Bookmarks 
+	% hyperindex=true,
+}
+\usepackage{graphics}
+\usepackage{subfig}
+\usepackage{pdfpages}
+\usepackage{svg}
+\usepackage{pstricks}
+%\usepackage{auto-pst-pdf}
+

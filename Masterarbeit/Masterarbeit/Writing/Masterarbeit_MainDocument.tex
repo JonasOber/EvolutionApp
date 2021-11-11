@@ -1,0 +1,37 @@
+% !TeX encoding=utf8
+% !TeX program = pdflatex
+% !TeX spellcheck = en-US
+% !BIB = biber
+\documentclass[%
+%draft,     % draft mode (no images, layout errors shown)
+draft=false,     % final mode 
+%%% --- Paper Settings ---
+paper=a4,% [Todo: add alternatives]
+paper=portrait, % landscape
+pagesize=auto, % driver
+%%% --- Base Font Size ---
+fontsize=12pt,%
+%%% --- Koma Script Version ---
+version=last, %
+%%% --- Global Package Options ---
+english, % language (passed to babel and other packages)
+% (ngerman, english, french, ...)
+]{scrreprt} % Classes: scrartcl, scrreprt, scrbook
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+%\usepackage{titlesec, blindtext, color}
+%\definecolor{gray75}{gray}{0.75}
+%\newcommand{\hsp}{\hspace{20pt}}
+%\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\newcommand{\authA}{Jonas Oberröhrmann}
+\newcommand{\matA}{10005408}
+
+
+\input{System/Packages.tex}
+%---
+%---document
+\begin{document}
+%\include{Content/Introduction}
+\include{Content/SetupExperimental}
+\end{document}
