@@ -1,7 +1,7 @@
 % !TeX encoding=utf8
 % !TeX spellcheck=en-Us
 \chapter{Setup}
-This chapter presents the experimental setup for electroluminescence (EL) measurements. Successful EL measurements consist of charge injection, charge recombination and luminescence detection. Therefore \autoref{sec:GeneralSetup} explaines the general setup. The following \autoref{sec:electricalconnection} explains the Perovskite Cell layout and electrical contacting of the cells. The emitted radiation is detected with a silicon ccd camera, which is explained with the additional optics in \autoref{sec:luminescencedetection}. The chapter concludes with the consideration of noise and errors.
+This chapter presents the experimental setup for electroluminescence (EL) \hyphenation{mea-sur-ements}. Successful EL measurements consist of charge injection, charge recombination and luminescence detection. Therefore \autoref{sec:GeneralSetup} explaines the general setup. The following \autoref{sec:electricalconnection} explains the Perovskite Cell layout and electrical contacting of the cells. The emitted radiation is detected with a silicon ccd camera, which is explained with the additional optics in \autoref{sec:luminescencedetection}. The chapter concludes with the consideration of noise and errors.
 
 \section{General Setup}\label{sec:GeneralSetup}
 The setup is enclosed in black walls, shielding the inside from outside light and noise (see \autoref{fig:generalsetup}). All parts inside the chamber are painted black to minimizes noise and the detection of stray light. A vacuum pump, voltage source, multimeter and operating table with a computer are connected to the setup on the oustide, providing further utility. Inside the enclosre are the probe holder and camera (footnote - PCO sensicam). The Camera is can be moved in three dimension. Now we are going to look at the contact setup for PSCs.
@@ -34,9 +34,14 @@ This setup enables safe contacting of the probes inside the enclosure. After cor
 \section{Luminescence detection}\label{sec:luminescencedetection}
 In the setup filters and optics are used to select and focus the emitted radiation at a specific distance onto the imaging sensor. This chapter explains the used components and physical processes.
 \subsection{Filters}
-Between probe and sensor a filter\footnote{bk-Interferenzoptik, custom made product} is used to filter the wavelengths reaching the detector. Generally filters function by absorbtion or interference and can be used to either transmit or reflect specific wavelengths. The filter in the setup is a bandpass filter and thus only transmits wavelengths from 780-820 nm. This filter is sensitive to high intensity, ... , which is above/below the luminescence emission of the PSC. The bandpass wavelengths are chosen accordingly to the luminescence emission spectra from the perovskite (see figure ...). This enables maximum sensitivity to the emitted radiation and limits the detection of stray light.
+Between probe and sensor a filter\footnote{bk-Interferenzoptik, custom made product} is used to filter the wavelengths reaching the detector. Generally filters function by absorbtion or interference and can be used to either transmit or reflect specific wavelengths. The filter in the setup is a bandpass filter and thus only transmits wavelengths from 780-820 nm. This filter is sensitive to high intensity, ... , which is above/below the luminescence emission of the PSC. The bandpass wavelengths are chosen accordingly to the luminescence emission spectra from the perovskite (see \autoref{fig:spectrum_perofilter}). This enables maximum sensitivity to the emitted radiation and limits the detection of stray light.
 
-PLOT FOR EMISSION OF PERO AND FILTER!
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{Images/ExperimentalSetup/Perovskite_Spectrum}
+	\caption{Emitted luminescence spectrum of the perovskite and transmission function of the filter. Taken from 2015 Predicting Voc.}
+	\label{fig:spectrum_perofilter}
+\end{figure}
 \subsection{Optics}
 Optics focus the radiation onto a charge coupled sensor (CCD). This setup uses a lens\footnote{Pentax, C2514-M (KP)} with a focus length of 14 mm and an aperature of 1.6. This focuses the 25x25 mm$^2$ to an approximate area of ..., with a pixel size of ... . A resolution of ... . 
 \\
