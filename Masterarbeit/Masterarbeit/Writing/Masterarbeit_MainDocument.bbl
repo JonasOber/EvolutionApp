@@ -1,0 +1,96 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ManualSensicam}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=5e7adb16e2d544a2694bd1d754809ecf}{%
+           family={imaging},
+           familyi={i\bibinitperiod},
+           prefix={pco},
+           prefixi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \strng{fullhash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \strng{bibnamehash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \strng{authorbibnamehash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \strng{authornamehash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \strng{authorfullhash}{5e7adb16e2d544a2694bd1d754809ecf}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensicam Operating Instructions}
+      \field{year}{2004}
+    \endentry
+    \entry{StemmerCCD}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=726e4114b819356de309cae6ac33a011}{%
+           family={Imaging},
+           familyi={I\bibinitperiod},
+           given={Stemmer},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{726e4114b819356de309cae6ac33a011}
+      \strng{fullhash}{726e4114b819356de309cae6ac33a011}
+      \strng{bibnamehash}{726e4114b819356de309cae6ac33a011}
+      \strng{authorbibnamehash}{726e4114b819356de309cae6ac33a011}
+      \strng{authornamehash}{726e4114b819356de309cae6ac33a011}
+      \strng{authorfullhash}{726e4114b819356de309cae6ac33a011}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CCD sensor types}
+      \verb{urlraw}
+      \verb https://www.stemmer-imaging.com/en/knowledge-base/ccd/
+      \endverb
+      \verb{url}
+      \verb https://www.stemmer-imaging.com/en/knowledge-base/ccd/
+      \endverb
+    \endentry
+    \entry{SchnellCCD1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=36c83ba2818d4adb36c6168725644473}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg Verlag}%
+      }
+      \strng{namehash}{36c83ba2818d4adb36c6168725644473}
+      \strng{fullhash}{36c83ba2818d4adb36c6168725644473}
+      \strng{bibnamehash}{36c83ba2818d4adb36c6168725644473}
+      \strng{authorbibnamehash}{36c83ba2818d4adb36c6168725644473}
+      \strng{authornamehash}{36c83ba2818d4adb36c6168725644473}
+      \strng{authorfullhash}{36c83ba2818d4adb36c6168725644473}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensoren in der Automatisierungstechnik}
+      \field{year}{1993}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

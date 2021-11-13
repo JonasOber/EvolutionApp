@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.12)  12 NOV 2021 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.12)  13 NOV 2021 14:30
 entering extended mode
 **./Masterarbeit_MainDocument.tex
 (Masterarbeit_MainDocument.tex
@@ -167,7 +167,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
 (System/Packages.tex
-(/home/jonas/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
+
+Class scrreprt Warning: Usage of package `parskip' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use option
+(scrreprt)              `parskip' with one of it's several values.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `parskip' on input line 12.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/home/jonas/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/home/jonas/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/home/jonas/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+Couldn't patch \@startsection
+) (/home/jonas/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/home/jonas/.miktex/texmfs/install/tex/latex/koma-script/scrlayer-scrpage.sty
@@ -199,9 +224,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/home/jonas/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count192
-\Gm@cntv=\count193
-\c@Gm@tempcnt=\count194
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -220,13 +245,13 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 (/home/jonas/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2021/10/19 3.65 The Babel package
-\babel@savecnt=\count195
+\babel@savecnt=\count196
 \U@D=\dimen147
 \l@unhyphenated=\language1
 
 (/home/jonas/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count196
+\bbl@dirlevel=\count197
 
 *************************************
 * Local config file bblopts.cfg used
@@ -240,11 +265,6 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 ))
 (/home/jonas/.miktex/texmfs/install/tex/latex/microtype/microtype.sty
 Package: microtype 2021/10/31 v3.0 Micro-typographical refinements (RS)
-
-(/home/jonas/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count197
-)
 \MT@toks=\toks20
 \MT@count=\count198
 \MT@tempbox=\box52
@@ -388,9 +408,6 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 (/home/jonas/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/home/jonas/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
@@ -453,13 +470,7 @@ Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
 (/home/jonas/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (/home/jonas/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
-(/home/jonas/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-(/home/jonas/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+)) (/home/jonas/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -1113,38 +1124,275 @@ File: pstricks.tex 2021/09/27 v3.11 `PSTricks' (tvz,hv)
 (/home/jonas/.miktex/texmfs/install/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.06, 2020/11/20 (hv))
 File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
-))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 34
-.
+)
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
 
+(/home/jonas/.miktex/texmfs/install/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count363
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count364
+\c@listtotal=\count365
+\c@listcount=\count366
+\c@liststart=\count367
+\c@liststop=\count368
+\c@citecount=\count369
+\c@citetotal=\count370
+\c@multicitecount=\count371
+\c@multicitetotal=\count372
+\c@instcount=\count373
+\c@maxnames=\count374
+\c@minnames=\count375
+\c@maxitems=\count376
+\c@minitems=\count377
+\c@citecounter=\count378
+\c@maxcitecounter=\count379
+\c@savedcitecounter=\count380
+\c@uniquelist=\count381
+\c@uniquename=\count382
+\c@refsection=\count383
+\c@refsegment=\count384
+\c@maxextratitle=\count385
+\c@maxextratitleyear=\count386
+\c@maxextraname=\count387
+\c@maxextradate=\count388
+\c@maxextraalpha=\count389
+\c@abbrvpenalty=\count390
+\c@highnamepenalty=\count391
+\c@lownamepenalty=\count392
+\c@maxparens=\count393
+\c@parenlevel=\count394
+\blx@tempcnta=\count395
+\blx@tempcntb=\count396
+\blx@tempcntc=\count397
+\blx@maxsection=\count398
+\blx@maxsegment@0=\count399
+\blx@notetype=\count400
+\blx@parenlevel@text=\count401
+\blx@parenlevel@foot=\count402
+\blx@sectionciteorder@0=\count403
+\blx@entrysetcounter=\count404
+\blx@biblioinstance=\count405
+\labelnumberwidth=\skip82
+\labelalphawidth=\skip83
+\biblabelsep=\skip84
+\bibitemsep=\skip85
+\bibnamesep=\skip86
+\bibinitsep=\skip87
+\bibparsep=\skip88
+\bibhang=\skip89
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language2
+\c@mincomprange=\count406
+\c@maxcomprange=\count407
+\c@mincompwidth=\count408
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count409
+\c@savedafterword=\count410
+\c@annotator=\count411
+\c@savedannotator=\count412
+\c@author=\count413
+\c@savedauthor=\count414
+\c@bookauthor=\count415
+\c@savedbookauthor=\count416
+\c@commentator=\count417
+\c@savedcommentator=\count418
+\c@editor=\count419
+\c@savededitor=\count420
+\c@editora=\count421
+\c@savededitora=\count422
+\c@editorb=\count423
+\c@savededitorb=\count424
+\c@editorc=\count425
+\c@savededitorc=\count426
+\c@foreword=\count427
+\c@savedforeword=\count428
+\c@holder=\count429
+\c@savedholder=\count430
+\c@introduction=\count431
+\c@savedintroduction=\count432
+\c@namea=\count433
+\c@savednamea=\count434
+\c@nameb=\count435
+\c@savednameb=\count436
+\c@namec=\count437
+\c@savednamec=\count438
+\c@translator=\count439
+\c@savedtranslator=\count440
+\c@shortauthor=\count441
+\c@savedshortauthor=\count442
+\c@shorteditor=\count443
+\c@savedshorteditor=\count444
+\c@labelname=\count445
+\c@savedlabelname=\count446
+\c@institution=\count447
+\c@savedinstitution=\count448
+\c@lista=\count449
+\c@savedlista=\count450
+\c@listb=\count451
+\c@savedlistb=\count452
+\c@listc=\count453
+\c@savedlistc=\count454
+\c@listd=\count455
+\c@savedlistd=\count456
+\c@liste=\count457
+\c@savedliste=\count458
+\c@listf=\count459
+\c@savedlistf=\count460
+\c@location=\count461
+\c@savedlocation=\count462
+\c@organization=\count463
+\c@savedorganization=\count464
+\c@origlocation=\count465
+\c@savedoriglocation=\count466
+\c@origpublisher=\count467
+\c@savedorigpublisher=\count468
+\c@publisher=\count469
+\c@savedpublisher=\count470
+\c@language=\count471
+\c@savedlanguage=\count472
+\c@origlanguage=\count473
+\c@savedoriglanguage=\count474
+\c@pageref=\count475
+\c@savedpageref=\count476
+\shorthandwidth=\skip90
+\shortjournalwidth=\skip91
+\shortserieswidth=\skip92
+\shorttitlewidth=\skip93
+\shortauthorwidth=\skip94
+\shorteditorwidth=\skip95
+\locallabelnumberwidth=\skip96
+\locallabelalphawidth=\skip97
+\localshorthandwidth=\skip98
+\localshortjournalwidth=\skip99
+\localshortserieswidth=\skip100
+\localshorttitlewidth=\skip101
+\localshortauthorwidth=\skip102
+\localshorteditorwidth=\skip103
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count477
+\c@textcitetotal=\count478
+\c@textcitemaxnames=\count479
+\c@biburlbigbreakpenalty=\count480
+\c@biburlbreakpenalty=\count481
+\c@biburlnumpenalty=\count482
+\c@biburlucpenalty=\count483
+\c@biburllcpenalty=\count484
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count485
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count486
+\c@bbx:relatedtotal=\count487
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(/home/jonas/.miktex/texmfs/install/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks52
+\footnotemargin=\dimen334
+\c@pp@next@reset=\count488
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count489
+\@quotereset=\count490
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 35
+.
 (/home/jonas/.miktex/texmfs/install/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (Masterarbeit_MainDocument.aux (Content/SetupExperimental.aux))
 \openout1 = `Masterarbeit_MainDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-Package scrbase Info: activating english \contentsname on input line 34.
-Package scrbase Info: activating english \listfigurename on input line 34.
-Package scrbase Info: activating english \listtablename on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+Package scrbase Info: activating english \contentsname on input line 35.
+Package scrbase Info: activating english \listfigurename on input line 35.
+Package scrbase Info: activating english \listtablename on input line 35.
 
+Couldn't patch \deferred@thm@head!
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1179,18 +1427,18 @@ Package scrbase Info: activating english \listtablename on input line 34.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 34.
-Package microtype Info: Applying patch `item' on input line 34.
-Package microtype Info: Applying patch `toc' on input line 34.
-Package microtype Info: Applying patch `eqnum' on input line 34.
-Package microtype Info: Applying patch `footnote' on input line 34.
+LaTeX Info: Redefining \microtypecontext on input line 35.
+Package microtype Info: Applying patch `item' on input line 35.
+Package microtype Info: Applying patch `toc' on input line 35.
+Package microtype Info: Applying patch `eqnum' on input line 35.
+Package microtype Info: Applying patch `footnote' on input line 35.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 34.
+LaTeX Info: Redefining \showhyphens on input line 35.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1204,27 +1452,27 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 34.
+or `english'. on input line 35.
 
 (/home/jonas/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count363
-\scratchdimen=\dimen334
+\scratchcounter=\count491
+\scratchdimen=\dimen335
 \scratchbox=\box82
-\nofMPsegments=\count364
-\nofMParguments=\count365
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count366
-\MPscratchDim=\dimen335
-\MPnumerator=\count367
-\makeMPintoPDFobject=\count368
-\everyMPtoPDFconversion=\toks53
+\nofMPsegments=\count492
+\nofMParguments=\count493
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count494
+\MPscratchDim=\dimen336
+\MPnumerator=\count495
+\makeMPintoPDFobject=\count496
+\everyMPtoPDFconversion=\toks54
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 34.
+Package hyperref Info: Link coloring ON on input line 35.
  (/home/jonas/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1235,14 +1483,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count369
+\c@section@level=\count497
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
  (Masterarbeit_MainDocument.out) (Masterarbeit_MainDocument.out)
-\@outlinefile=\write4
-\openout4 = `Masterarbeit_MainDocument.out'.
+\@outlinefile=\write5
+\openout5 = `Masterarbeit_MainDocument.out'.
 
 Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           Using `bookmark' together with `hyperref' is recommended,
@@ -1251,14 +1499,14 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 34.
+(scrreprt)           before \begin{document} on input line 35.
 
 (/home/jonas/.miktex/texmfs/install/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (/home/jonas/.miktex/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count370
+\BKM@id=\count498
 ))
 (/home/jonas/.miktex/texmfs/install/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -1268,12 +1516,37 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-10-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `Masterarbeit_MainDocument.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Masterarbeit_MainDocument.bbl' found.
+
+(Masterarbeit_MainDocument.bbl)
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
 \openout2 = `Content/SetupExperimental.aux'.
 
-
-(Content/SetupExperimental.tex
+ (Content/SetupExperimental.tex
 chapter 1.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
 .
 (/home/jonas/.miktex/texmfs/install/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1283,17 +1556,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package svg Info: Last page of `./svg-inkscape/ExperimentalSetupSketch_svg-tex.
-pdf' is 8 on input line 10.
+pdf' is 8 on input line 11.
 
 (svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf_tex
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=11, page=1, 400.58806pt
- x 261.19678pt>
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=11, page=1, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age1 used on input line 56.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
 7.
 
@@ -1345,62 +1618,62 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 (/home/jonas/.miktex/texmfs/install/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=12, page=2, 400.58806pt
- x 261.19678pt>
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=12, page=2, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age2 used on input line 59.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=13, page=3, 400.58806pt
- x 261.19678pt>
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=13, page=3, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 3>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age3 used on input line 63.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=14, page=4, 400.58806pt
- x 261.19678pt>
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=14, page=4, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 4>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
-age4 used on input line 65.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=15, page=5, 400.58806pt
- x 261.19678pt>
+age4 used on input line 66.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=15, page=5, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 5>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
-age5 used on input line 67.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=16, page=6, 400.58806pt
- x 261.19678pt>
+age5 used on input line 68.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=16, page=6, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 6>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
-age6 used on input line 69.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=17, page=7, 400.58806pt
- x 261.19678pt>
+age6 used on input line 70.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=17, page=7, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 7>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
-age7 used on input line 71.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=18, page=8, 400.58806pt
- x 261.19678pt>
+age7 used on input line 72.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=18, page=8, 401.58391pt
+ x 248.38454pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 8>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
-age8 used on input line 73.
-(pdftex.def)             Requested size: 400.58804pt x 261.21205pt.
+age8 used on input line 74.
+(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
 )
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1408,27 +1681,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Package svg Info: Last page of `./svg-inkscape/Pero_Layout_side_svg-tex.pdf' is
  3 on input line 20.
 (svg-inkscape/Pero_Layout_side_svg-tex.pdf_tex
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=21, page=1, 390.40498pt x 184.
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=21, page=1, 388.18184pt x 184.
 9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page1 us
 ed on input line 56.
-(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=22, page=2, 390.40498pt x 184.
+(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=22, page=2, 388.18184pt x 184.
 9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page2 us
 ed on input line 62.
-(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=23, page=3, 390.40498pt x 184.
+(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=23, page=3, 388.18184pt x 184.
 9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 3>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page3 us
 ed on input line 64.
-(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
+(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 25.
@@ -1499,66 +1772,114 @@ F inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./svg-inkscape/Pero_Layout_side_svg-tex.pdf): PD
 F inclusion: multiple pdfs with page group included in a single page
 >]
-<Images/ExperimentalSetup/Perovskite_Spectrum.png, id=56, 978.65625pt x 741.771
+<Images/ExperimentalSetup/Perovskite_Spectrum.png, id=59, 978.65625pt x 741.771
 26pt>
 File: Images/ExperimentalSetup/Perovskite_Spectrum.png Graphic file (type png)
 <use Images/ExperimentalSetup/Perovskite_Spectrum.png>
 Package pdftex.def Info: Images/ExperimentalSetup/Perovskite_Spectrum.png  used
  on input line 41.
 (pdftex.def)             Requested size: 298.75269pt x 226.43797pt.
- [3 <./Images/ExperimentalSetup/Perovskite_Spectrum.png>]
-<Images/ExperimentalSetup/CCD_Sensor.png, id=72, 286.06876pt x 295.85532pt>
-File: Images/ExperimentalSetup/CCD_Sensor.png Graphic file (type png)
-<use Images/ExperimentalSetup/CCD_Sensor.png>
-Package pdftex.def Info: Images/ExperimentalSetup/CCD_Sensor.png  used on input
- line 56.
-(pdftex.def)             Requested size: 298.75269pt x 308.97789pt.
-<Images/ExperimentalSetup/PCO_sensicam_QE.png, id=74, 376.40625pt x 311.66437pt
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[3 <./Images/ExperimentalSetup/Perovskite_Spectrum.png>]
+<Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png, id=75, 803.0pt 
+x 349.305pt>
+File: Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png Graphic fil
+e (type png)
+<use Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>
+Package pdftex.def Info: Images/ExperimentalSetup/ccd-sensor-interline-transfer
+-en.png  used on input line 56.
+(pdftex.def)             Requested size: 426.79141pt x 185.65843pt.
+<Images/ExperimentalSetup/PCO_sensicam_QE.png, id=78, 376.40625pt x 311.66437pt
 >
 File: Images/ExperimentalSetup/PCO_sensicam_QE.png Graphic file (type png)
 <use Images/ExperimentalSetup/PCO_sensicam_QE.png>
 Package pdftex.def Info: Images/ExperimentalSetup/PCO_sensicam_QE.png  used on 
-input line 65.
+input line 64.
 (pdftex.def)             Requested size: 426.79141pt x 353.40834pt.
+ [4 <./Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
-1.
+0.
 
 (/home/jonas/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-) [4] [5 <./Images/ExperimentalSetup/CCD_Sensor.png>] [6 <./Images/Experimental
-Setup/PCO_sensicam_QE.png>] (Masterarbeit_MainDocument.aux
-(Content/SetupExperimental.aux))
+) [5] [6 <./Images/ExperimentalSetup/PCO_sensicam_QE.png>]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+8.
+
+(/home/jonas/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [7
+
+
+
+]
+(Masterarbeit_MainDocument.aux (Content/SetupExperimental.aux))
 Package rerunfilecheck Info: File `Masterarbeit_MainDocument.out' has not chang
 ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'Masterarbeit_MainDocument.run.xml'.
+\openout1 = `Masterarbeit_MainDocument.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 36304 strings out of 480844
- 739874 string characters out of 2903692
- 1232978 words of memory out of 3000000
- 53124 multiletter control sequences out of 15000+600000
- 467847 words of font info for 135 fonts, out of 8000000 for 9000
+ 43405 strings out of 480844
+ 882441 string characters out of 2903692
+ 1791576 words of memory out of 3000000
+ 60149 multiletter control sequences out of 15000+600000
+ 475773 words of font info for 143 fonts, out of 8000000 for 9000
  1 hyphenation exception out of 8191
- 108i,20n,108p,10646b,782s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/home/jonas/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}{/home/jona
-s/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/home/jonas/.miktex/texm
-fs/install/fonts/enc/dvips/lm/lm-ec.enc}{/home/jonas/.miktex/texmfs/install/fon
-ts/enc/dvips/lm/lm-mathit.enc}</home/jonas/.miktex/texmfs/install/fonts/type1/p
-ublic/lm/lmbx12.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/l
-mmi12.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb><
-/home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/jonas
-/.miktex/texmfs/install/fonts/type1/public/lm/lmr7.pfb></home/jonas/.miktex/tex
-mfs/install/fonts/type1/public/lm/lmr8.pfb></home/jonas/.miktex/texmfs/install/
-fonts/type1/public/lm/lmro12.pfb></home/jonas/.miktex/texmfs/install/fonts/type
-1/public/lm/lmssbx10.pfb>
-Output written on Masterarbeit_MainDocument.pdf (6 pages, 511029 bytes).
+ 108i,21n,108p,10646b,1737s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+{/home/jonas/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/home/jonas/.
+miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}{/home/jonas/.miktex/texmfs
+/install/fonts/enc/dvips/lm/lm-mathit.enc}{/home/jonas/.miktex/texmfs/install/f
+onts/enc/dvips/lm/lm-rm.enc}</home/jonas/.miktex/texmfs/install/fonts/type1/pub
+lic/lm/lmbx12.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmc
+sc10.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmmi12.pfb><
+/home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb></home/jonas
+/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/jonas/.miktex/te
+xmfs/install/fonts/type1/public/lm/lmr7.pfb></home/jonas/.miktex/texmfs/install
+/fonts/type1/public/lm/lmr8.pfb></home/jonas/.miktex/texmfs/install/fonts/type1
+/public/lm/lmri12.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm
+/lmro12.pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmssbx10.
+pfb></home/jonas/.miktex/texmfs/install/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Masterarbeit_MainDocument.pdf (7 pages, 695064 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 37021 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 41629 words of extra memory for PDF output out of 42996 (max. 10000000)
 

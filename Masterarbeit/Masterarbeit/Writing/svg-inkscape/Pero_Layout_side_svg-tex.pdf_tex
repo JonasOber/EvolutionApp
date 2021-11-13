@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
+%% Creator: Inkscape 1.1.1 (1:1.1+202109281949+c3084ef5ed), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'Pero_Layout_side_svg-tex.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{388.94644426bp}%
+    \setlength{\unitlength}{386.73160082bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.47372316)%
+  \begin{picture}(1,0.47643621)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{Pero_Layout_side_svg-tex.pdf}}%
-    \put(0.63232447,0.40655439){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gold\end{tabular}}}}%
-    \put(0.63232447,0.33367429){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C60/BCP\end{tabular}}}}%
-    \put(0.84968429,0.40756372){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MAPI\end{tabular}}}}%
-    \put(0.85067847,0.33427688){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spiro-TTB\end{tabular}}}}%
-    \put(0.85096472,0.25914297){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Glas\end{tabular}}}}%
+    \put(0.63594584,0.40888276){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gold\end{tabular}}}}%
+    \put(0.63594584,0.33558527){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}C60/BCP\end{tabular}}}}%
+    \put(0.8545505,0.40989787){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}MAPI\end{tabular}}}}%
+    \put(0.85555038,0.33619132){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spiro-TTB\end{tabular}}}}%
+    \put(0.85583826,0.25915144){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Glas\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{Pero_Layout_side_svg-tex.pdf}}%
-    \put(0.63232447,0.26079418){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ITO\end{tabular}}}}%
+    \put(0.63464281,0.26081211){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}ITO\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{Pero_Layout_side_svg-tex.pdf}}%
+    \put(0.63464281,0.18953571){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Active Solar Cell Area\end{tabular}}}}%
   \end{picture}%
 \endgroup%
