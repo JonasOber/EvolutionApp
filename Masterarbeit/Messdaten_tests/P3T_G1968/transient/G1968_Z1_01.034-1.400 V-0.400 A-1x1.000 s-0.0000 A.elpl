@@ -1,0 +1,56 @@
+//LOANAv1;windows-1252;ISFH-ELPL-LCGET3-v1
+[General]
+Operator:	
+Date:	19/11/2021
+Time:	10:14:06
+Measuring device:	ISFH EL
+Chuck:	ISFH Standard
+Remarks:	
+Local UTC offset:	01:00:00
+Time zone:	Mitteleuropäische Zeit
+
+[Sample]
+Cell name:	
+Cell area:	255.000000	[cm2]
+
+[Settings]
+Exposure time:	1.000000	[s]
+Exposures:	1
+Dark subtraction:	FALSE
+Measurement resistance:	0.100000	[Ohm]
+Camera manufacturer:	PCO
+Camera model:	Sensicam
+Camera height:	0	[a.u.]
+Camera chip temperature:	-11.00	[C]
+Binning:	0
+Gain on:	True
+EM gain setting:	0
+Preclear:	0
+Digital gain setting:	0
+Delay:	0.000000	[s]
+Dark Delay:	0.000000	[s]
+Laser current:	0.000000	[A]
+Voltage target:	1.400000	[V]
+Current limit:	0.400000	[V]
+
+[Conditions]
+Cell temperature:	-259.740260	[C]
+Voltage:	1.400513	[V]
+Current:	0.000112	[A]
+Laser current measured:	0.000000	[A]
+Laser last start time:	01/01/1904 01:00:00.000
+Laser last stop time:	01/01/1904 01:00:00.000
+Camera last start time:	19/11/2021 10:14:06.111
+Camera last stop time:	19/11/2021 10:14:07.516
+
+[Image]
+Image format:	float-4-byte
+Image data start:	0
+Width:	1376	[px]
+Height:	1024	[px]
+Rotation:	0	[Degrees]
+Endianness:	big
+Transposed:	True
+
+[Files]
+Luminescence image file:	G1968_Z1_01.034-1.400 V-0.400 A-1x1.000 s-0.0000 A.EL.b32

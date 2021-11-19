@@ -1,0 +1,415 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0f1</Version>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>Project Header</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>IDString</Name>
+<Val>LCGET ELPL</Val>
+</String>
+<U32>
+<Name>Version</Name>
+<Val>2</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>wish</Name>
+<NumElts>18</NumElts>
+<SGL>
+<Name>Laser current:</Name>
+<Val>0.00000</Val>
+</SGL>
+<Boolean>
+<Name>Pixel stddev:</Name>
+<Val>0</Val>
+</Boolean>
+<U32>
+<Name>Average:</Name>
+<Val>1</Val>
+</U32>
+<Boolean>
+<Name>Subtract dark:</Name>
+<Val>0</Val>
+</Boolean>
+<SGL>
+<Name>Exposure time:</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Delay:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Cell current:</Name>
+<Val>0.40000</Val>
+</SGL>
+<SGL>
+<Name>Cell voltage:</Name>
+<Val>1.40000</Val>
+</SGL>
+<Boolean>
+<Name>Derivative:</Name>
+<Val>0</Val>
+</Boolean>
+<SGL>
+<Name>dV:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>dI:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>dIL:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Cell area:</Name>
+<Val>2.55000E-2</Val>
+</SGL>
+<String>
+<Name>Chuck:</Name>
+<Val>ISFH Standard</Val>
+</String>
+<String>
+<Name>Measurement device:</Name>
+<Val>ISFH EL</Val>
+</String>
+<String>
+<Name>Camera Model:</Name>
+<Val>Sensicam</Val>
+</String>
+<Cluster>
+<Name>Basic Measurement Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Operator</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Cell name</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Remarks</Name>
+<Val></Val>
+</String>
+</Cluster>
+<SGL>
+<Name>Dark Delay:</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>measured</Name>
+<NumElts>23</NumElts>
+<I16>
+<Name>Width:</Name>
+<Val>1376</Val>
+</I16>
+<I16>
+<Name>Height:</Name>
+<Val>1024</Val>
+</I16>
+<String>
+<Name>Duration:</Name>
+<Val></Val>
+</String>
+<String>
+<Name>Date:</Name>
+<Val>19/11/2021</Val>
+</String>
+<String>
+<Name>Time:</Name>
+<Val>10:13:30</Val>
+</String>
+<SGL>
+<Name>Voltage:</Name>
+<Val>1.40050</Val>
+</SGL>
+<SGL>
+<Name>Current:</Name>
+<Val>1.34934E-4</Val>
+</SGL>
+<SGL>
+<Name>Laser current:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>+-</Name>
+<Val>NaN</Val>
+</SGL>
+<SGL>
+<Name>I0 sigma:</Name>
+<Val>NaN</Val>
+</SGL>
+<SGL>
+<Name>T0 sigma:</Name>
+<Val>NaN</Val>
+</SGL>
+<SGL>
+<Name>dV:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>dI:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>dIL:</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>+-</Name>
+<Val>NaN</Val>
+</SGL>
+<SGL>
+<Name>dI sigma:</Name>
+<Val>NaN</Val>
+</SGL>
+<SGL>
+<Name>dT sigma:</Name>
+<Val>NaN</Val>
+</SGL>
+<DBL>
+<Name>Temperature: </Name>
+<Val>-259.74025974025972</Val>
+</DBL>
+<DBL>
+<Name>Meas. Resistance:</Name>
+<Val>0.10000000000000</Val>
+</DBL>
+<Timestamp>
+<Name>Time: Last laser start</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<Timestamp>
+<Name>Time: Last laser stop</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<Timestamp>
+<Name>Time: Last cam. start (light)</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>1229400064</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-574809286</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+<Timestamp>
+<Name>Time: Last cam. stop (light)</Name>
+<Cluster>
+<Name></Name>
+<NumElts>4</NumElts>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>2136954880</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>-574809285</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+</Timestamp>
+</Cluster>
+<Cluster>
+<Name>Cameraeinstellungen</Name>
+<NumElts>5</NumElts>
+<String>
+<Name>Camera2Use</Name>
+<Val>PCO</Val>
+</String>
+<Cluster>
+<Name>PCO</Name>
+<NumElts>5</NumElts>
+<Cluster>
+<Name>Controls</Name>
+<NumElts>12</NumElts>
+<U32>
+<Name>Camera type</Name>
+<Val>0</Val>
+</U32>
+<U32>
+<Name>Operating mode
+HP &amp; QE / HS &amp; DiCam Pro </Name>
+<Val>0</Val>
+</U32>
+<U16>
+<Name>Frame trigger 
+(High Performance and QE only)</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Sequence trigger</Name>
+<Val>0</Val>
+</U16>
+<Boolean>
+<Name>Low Light
+(QE only)</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Gain</Name>
+<Val>1</Val>
+</Boolean>
+<U16>
+<Name>Horzontal
+binning</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Vertical
+binning </Name>
+<Val>0</Val>
+</U16>
+<I32>
+<Name>ROI Left</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>ROI Right</Name>
+<Val>43</Val>
+</I32>
+<I32>
+<Name>ROI Top</Name>
+<Val>1</Val>
+</I32>
+<I32>
+<Name>ROI Bottom</Name>
+<Val>33</Val>
+</I32>
+</Cluster>
+<I32>
+<Name>Run mode</Name>
+<Val>4</Val>
+</I32>
+<I32>
+<Name>Read-out mode</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Stop output</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Mode select out</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<DBL>
+<Name>CCD temperature</Name>
+<Val>-11.00000000000000</Val>
+</DBL>
+<Cluster>
+<Name>Parameter Hamamatsu</Name>
+<NumElts>4</NumElts>
+<U8>
+<Name>CCD Mode</Name>
+<Val>1</Val>
+</U8>
+<U8>
+<Name>Gain</Name>
+<Val>1</Val>
+</U8>
+<U8>
+<Name>EMGain</Name>
+<Val>0</Val>
+</U8>
+<SGL>
+<Name>Temperature</Name>
+<Val>-65.00000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Cheetah</Name>
+<NumElts>5</NumElts>
+<DBL>
+<Name>P</Name>
+<Val>100.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>I</Name>
+<Val>70.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>D</Name>
+<Val>50.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Settle temperature</Name>
+<Val>278.00000000000000</Val>
+</DBL>
+<EL>
+<Name>Gain</Name>
+<Choice>Optionsauswahl 1</Choice>
+<Choice>Optionsauswahl 2</Choice>
+<Val>0</Val>
+</EL>
+</Cluster>
+</Cluster>
+</Cluster>
+</LVData>
