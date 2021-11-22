@@ -14,7 +14,7 @@ The setup is enclosed in a black housing, shielding the inside from outside ligh
 \end{figure}
 \FloatBarrier
 \section{Electrical Connection}\label{sec:electricalconnection}
-Perovskite Solar Cells (PSCs) are manufactured on 25 mm x25 mm glass substrates (see \autoref{fig:perolayouttop}). Four cells are deposited on one substrate, each single cell having dimensions of 4 mm x 3.5 mm. The cell stack consists of a glass substrate, with a xyz nm thick layer of Indium Tin Oxide (short ITO) deposited ontop. xyz nm of Spiro-TTB are used as a Hole Transport Layer (HTL), followed by 500 nm of methylammonium lead triiodide (short MAPI) as the absorbing layer. The top side of the MAPI are contacted with xyz nm of C60 and BCP, acting as the Electron Transport Layer (short ETL). In the end of the fabrication process, xyz nm Gold are deposited on top of the ITO and the C60/BCP. To succesfully contact the PSC one needs a holder with two pins, one on each gold pad. The used holder uses two additional pins to check proper contacting.
+Perovskite Solar Cells (PSCs) are manufactured on 25 mm x25 mm glass substrates (see \autoref{fig:perolayouttop}). Four cells are deposited on one substrate, each single cell having dimensions of 4 mm x 3.5 mm. The cell stack consists of a glass substrate, with a xyz nm thick layer of Indium Tin Oxide (short ITO) deposited ontop. xyz nm of Spiro-TTB are used as a Hole Transport Layer (HTL), followed by 500 nm of methylammonium lead triiodide (short MAPI) as the absorbing layer. The top side of the MAPI is contacted with xyz nm of C60 and BCP, acting as the Electron Transport Layer (short ETL). In the end of the fabrication process, xyz nm Gold are deposited on top of the ITO and the C60/BCP. To succesfully contact the PSC a holder with four pins is used. The holder uses two pins to check proper contacting of the PSC and the other two to source voltage.
 \begin{figure}
 	\centering
 	\includesvg{Images/ExperimentalSetup/Pero_Layout_side}
@@ -22,7 +22,7 @@ Perovskite Solar Cells (PSCs) are manufactured on 25 mm x25 mm glass substrates 
 	\label{fig:perolayouttop}
 \end{figure}
 
-The holder is electrically connected to a voltage supply\footnote{Kukusuki}, in series with a 100 m$\Omega$ resistance, R, and two multimeters\footnote{Keithley 2000 Multimeter} (see \autoref{fig:generalsetup}). The multimeter measures the voltage drop across the PSC. The other multimeter measures the voltage drop across the resistor and the flowing current I is then calculated by Ohm's law:
+The holder is electrically connected to a power supply\footnote{Kukusuki}, in series with a 100 m$\Omega$ resistance, R, and two multimeters\footnote{Keithley 2000 Multimeter} (see \autoref{fig:generalsetup}). The multimeter measures the voltage drop across the PSC. The other multimeter measures the voltage drop across the resistor and the flowing current I is then calculated by Ohm's law:
 \begin{equation}
 	I = \frac{U}{R}.
 \end{equation}
@@ -32,13 +32,13 @@ Structured wells with a vacuum connection fixate the PSC on the holder. This ens
 This setup enables safe contacting of the probes inside the enclosure. After correct poling, charges are injected and recombine. The emitted radiation is detected by a camera, what requires the usage of filters and optics.
 
 \section{Luminescence detection}\label{sec:luminescencedetection}
-In the setup filters and optics are used to select and focus the emitted radiation at a specific distance onto the imaging sensor. This chapter explains the used components and physical processes.
+In the setup a ccd camera detects the emitted luminescence. The camera detects radiation over a wide range of wavelengths, while the perovskite emits luminescence only at specific wavelengths with small halbwertsbreite. Therefore filters are used to detect only the EL radiation. Optics focus the emitted radiation at a specific distance onto the imaging sensor. This chapter explains the used components and physical processes.
 \subsection{Filters}
 Between probe and sensor a filter\footnote{bk-Interferenzoptik, custom made product} is used to filter the wavelengths reaching the detector. In filters absorption or interference are used to either transmit or reflect specific wavelengths. The filter in the setup is a bandpass filter and chosen accordingly to the luminescence emission spectrum of the PSC (see \autoref{fig:spectrum_perofilter}). This reduces the detected wavelengths to 780 nm to 800 nm, the interval with maximal intensity of the PSC, which enables maximum sensitivity to the emitted radiation and limits the detection of stray light. %This filter is sensitive to high intensity, ... , which is above/below the luminescence emission of the PSC. 
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{Images/ExperimentalSetup/Perovskite_Spectrum}
+	\includesvg{Images/ExperimentalSetup/SpectralEL/PL_spectrum_MAPIcell_with_filter_PPT.svg}
 	\caption{Emitted luminescence spectrum of the perovskite and transmission function of the filter. Taken from 2015 Predicting Voc. DIESES BILD DURCH PL MESSUNG VON MARVIN ERSETZEN ODER SO AUS INSTITUT!}
 	\label{fig:spectrum_perofilter}
 \end{figure}
@@ -67,7 +67,7 @@ This process measures the EL distribution over the PSC surface. However several 
 %\end{figure}
 
 \section{Noise and measurement errors}
-Several sources of errors deviate the measured signal from the physical value. Common errors are dark noise, readout noise and hot or cold pixel. Dark noise refers to the thermal generation of electrons, depending on the temperature and the material's properties. To reduce thermal generation the CCD sensor is cooled to -12°C. To further reduce dark noise, Images without illumination or applied voltage are taken, and subtracted from the EL image.\\
+Several sources of errors deviate the measured signal from the physical value. Common errors are dark noise, readout noise and hot or cold pixel. Dark noise refers to the thermal generation of electrons, depending on the temperature and the material's properties. To reduce thermal generation the CCD sensor is cooled to -12 C. To further reduce dark noise, Images without illumination or applied voltage are taken, and subtracted from the EL image.\\
 
 Other sources of errors happen when the electrons are shifted from well to well, called readout noise. The manufactur specifies the read out noise of 5 electrons. This relates to about one count, with an analog to digital conversion efficiency of 4 electrons per count.\cite{ManualSensicam}
  

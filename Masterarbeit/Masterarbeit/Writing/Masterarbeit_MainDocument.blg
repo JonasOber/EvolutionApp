@@ -1,15 +1,19 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Masterarbeit_MainDocument.blg'
-[53] biber:340> INFO - === Sa Nov 13, 2021, 14:30:03
-[63] Biber.pm:415> INFO - Reading 'Masterarbeit_MainDocument.bcf'
-[116] Biber.pm:952> INFO - Found 3 citekeys in bib section 0
-[126] Biber.pm:4340> INFO - Processing section 0
-[134] Biber.pm:4531> INFO - Looking for bibtex format file '../Literatur/Literatuverzeichnis.bib' for section 0
-[135] bibtex.pm:1689> INFO - LaTeX decoding ...
-[148] bibtex.pm:1494> INFO - Found BibTeX data source '../Literatur/Literatuverzeichnis.bib'
-[177] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[177] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[177] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[177] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[181] bbl.pm:654> INFO - Writing 'Masterarbeit_MainDocument.bbl' with encoding 'UTF-8'
-[182] bbl.pm:757> INFO - Output to Masterarbeit_MainDocument.bbl
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'Masterarbeit_MainDocument.blg'
+[49] biber-darwin:315> INFO - === Mon Nov 22, 2021, 09:14:01
+[82] Biber.pm:371> INFO - Reading 'Masterarbeit_MainDocument.bcf'
+[197] Biber.pm:889> INFO - Found 3 citekeys in bib section 0
+[213] Biber.pm:4093> INFO - Processing section 0
+[228] Biber.pm:4254> INFO - Looking for bibtex format file '../Literatur/Literatuverzeichnis.bib' for section 0
+[233] bibtex.pm:1523> INFO - LaTeX decoding ...
+[265] bibtex.pm:1340> INFO - Found BibTeX data source '../Literatur/Literatuverzeichnis.bib'
+[267] Utils.pm:193> WARN - I didn't find a database entry for 'SchnellCCD1993' (section 0)
+[268] Utils.pm:193> WARN - I didn't find a database entry for 'StemmerCCD' (section 0)
+[268] Utils.pm:193> WARN - I didn't find a database entry for 'ManualSensicam' (section 0)
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[275] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[275] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[275] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[275] bbl.pm:636> INFO - Writing 'Masterarbeit_MainDocument.bbl' with encoding 'UTF-8'
+[276] bbl.pm:739> INFO - Output to Masterarbeit_MainDocument.bbl
+[276] Biber.pm:110> INFO - WARNINGS: 3
