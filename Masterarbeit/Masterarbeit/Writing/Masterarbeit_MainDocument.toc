@@ -1,0 +1,38 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Theory of Electroluminescence}{2}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Rau's relationship}{2}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}The Principle of detailed balance}{2}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Quantum theoretical theory for the absorption and emission of light}{3}{section.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Perovskites and perovskite solar cells}{5}{chapter.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Perovskite materials}{5}{section.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Perovskite Solar Cells}{5}{section.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Setup}{6}{chapter.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}General Setup}{6}{section.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Electrical Connection}{7}{section.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Luminescence detection}{8}{section.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Filters}{8}{subsection.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Optics}{9}{subsection.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Charge Coupled Detectors}{9}{subsection.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Noise and measurement errors}{10}{section.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Experimental part}{12}{chapter.43}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

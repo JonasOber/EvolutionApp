@@ -1,4 +1,66 @@
 % !TeX encoding=utf8
 % !TeX spellcheck=en-Us
 \chapter{Theory of Electroluminescence}
-This chapter explains the theoretical background of Electroluminescence (EL). Starting with the rate of radiating recombination, depending on the material's band structure (see section XY). The rate depends on the carrier concentration, so section XY explains the carrier density profile. Section XY ends with the light path of the radiation out of the sample.
+This chapter explains the theoretical background of Electroluminescence (EL). Starting with the rate of radiating recombination, depending on the material's band structure (see section XY). The rate depends on the carrier concentration, so section XY explains the carrier density profile. Section XY ends with the light path of the radiation out of the sample.\\
+\section{Rau's relationship}
+The basis for our discussion of EL emission is the relationship given by Rau (2007):
+\begin{equation}
+	\frac{d\Phi}{d\vec{r}}(\vec{r}) = \alpha(\vec{r})\, n(\vec{r})^2(\vec{r})\, \Phi_{BB} u(\vec{r}). 
+\end{equation}
+Because all the volume elements dV($\vec{r}$) contribute to the emitted photon flux we integrate the photon flux:
+\begin{equation}
+	\Phi_{em}(\vec{r}_S, \Omega_S, E_\gamma) = \int T(\vec{r}, \vec{r}_S)\, \alpha(\vec{r})\,\Phi_{BB}(E_\gamma)\,u(\vec{r})\, d\vec{r},
+\end{equation}
+for the electromagnetic flux at $\vec{r}_S$, into spacial angle $\Omega_S$ at photon energy E$_\gamma$. Inserting Donolato's reciprocity theorem (?) for u($\vec{r}$) yields (CITE):
+\begin{equation}
+	\Phi_{em} (\vec{r}_S, \Omega_S, E_\gamma) = \int T(\vec{r}_s, \vec{r})\,\alpha(\vec{r})\,fc(\vec{r})\,d\vec{r}\,\Phi_{BB}(E_\gamma)\,\left[\exp\left(\frac{qV}{kT}\right)-1\right].
+\end{equation}
+
+\section{The Principle of detailed balance}
+%by schottky and roosenbroeck, 1954
+W. van Roosbroeck and W. Shockley presented 1954 the principle of detailed balance, showing the relation between the rate of radiative recombination and optical properties, such as the absorbtion coefficient $\alpha$ (CITE).
+\section{Quantum theoretical theory for the absorption and emission of light} \footnote{BassaniPastoriParravicini-ElectronicStatesandOpticalTransitionsinSolidsPergamonPress1975}
+BEGIN WITH VECTOR POTENTIAL \\
+The quantum theoretical treatment of light emission or absorption starts with the interaction of electrons with electromagnetic radiation, described by the Schrodinger Equation
+\begin{equation}
+	H\Psi = E\Psi
+\end{equation}
+with the Wavefunction $\Psi$, Eigenenergy E and Hamiltonian H(SOURCE):
+\begin{equation}
+	H =\frac{(p + eA)^2}{2m} + V.
+\end{equation}
+Neglecting terms of order (eA)$^2$, the Hamiltonian can be seperated into the unperturbed part H$_0$ and the electromagnetic interaction part:
+\begin{equation}\label{eq:Hamiltonperturbation}
+	H = H_0 + H_i = H_0 + \frac{(eA)^2}{2m}
+\end{equation}
+and H$_0$:
+\begin{equation}
+	H_0 = \frac{p^2}{2m} + V.
+\end{equation}
+In crystals the potential is periodic in space and energy bands are formed, consisting of allowed states and energy gaps . The solution to the unperturbed Hamiltonian H$_0$ can be calculated approximately by ... and confirmed by experimental techniques (UPS, ...)(PICTURE). That way the Energies E$_0$ are known and the solution to the perturbed hamiltonian \autoref{eq:Hamiltonperturbation} can be approximated by perturbation theory (SOURCE). This leads to interaction terms, mixing different states and allowing transisitions obeing transistion rules.
+%%% STATES nuss ich noch einführen!!%
+First order perturbation theory gives a transition propability from the initial state $\ket{i}$ to final state $\ket{f}$:
+\begin{equation}
+P_{i\rightarrow f} = \frac{2\pi}{\hbar} \lvert\bra{f}H_i\ket{i}\rvert^2 \delta(E_f - E_i \mp \hbar \omega).
+\end{equation}
+Inserting \autoref{eq:Hamiltonperturbation} yields
+\begin{equation}
+	P_{i\rightarrow f} = \frac{2\pi}{hbar}\,\left(\frac{eA}{mc}\right)^2 \lvert \vec{e} M_{fi}(\vec{k})\rvert ^2  \delta(E_f - E_i \mp \hbar \omega),
+\end{equation}
+with M$_{fi}(\vec{k})$ being the matrix dipolemoment for states f and i:
+\begin{equation}
+	\vec{e}\,M_{fi}(\vec{k}) = \bra{f}\vec{e}\vec{p}\ket{i} = e \int \overline{\Psi_f} (-i\hbar\nabla) \Psi_i \,d\vec{r}.
+\end{equation}
+To account for all possible transisitions one has to integrate over all possible values $\vec{k}$ and summing over all initial and final states, denoted by valence band v and conduction band c:
+\begin{equation}
+	W(\hbar w) = \frac{2\pi}{\hbar}\,\left(\frac{eA}{mc}\right)^2 \sum_{v, c}\int \frac{2d\vec{k}}{(2\pi)^3}\lvert \vec{e} M_{fi}(\vec{k})\rvert ^2  \delta(E_f - E_i \mp \hbar \omega).
+\end{equation}
+Returning to the connection between transition propability and absorption coefficient $\alpha$, which is defined as the ratio of absorbed energy in unit time and unit volume to incoming energy flux:
+\begin{equation}
+	\alpha(\hbar w) = \frac{\mathrm{energy\,absorbed\,in \,unit\, time\, and \,unit\, volume}}{\mathrm{Energy\, flux}}.
+\end{equation}
+The absorbed energy is the photon energy times the total transition rate W($\hbar $w). The incoming energy flux is calculated by the Poynting vector from vector field $\vec{A}$. This yields for $\alpha$:
+\begin{equation}
+	\alpha(\hbar w) = \frac{\hbar\,c\,2\pi}{A_0^2\,wn}\,W(\hbar\,w).
+	%\frac{4\,\pi^2\,e^2}{n\,c\,m^2\,w} \sum_{v, c}\int \frac{2d\vec{k}}{(2\pi)^3}\lvert \vec{e} M_{fi}(\vec{k})\rvert ^2  \delta(E_f - E_i \mp \hbar \omega)
+\end{equation}

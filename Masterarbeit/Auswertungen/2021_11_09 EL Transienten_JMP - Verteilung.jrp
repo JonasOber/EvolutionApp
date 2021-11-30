@@ -1,0 +1,98 @@
+﻿New Table( "2021_11_09 EL Transienten_JMP",
+	Add Rows( 15 ),
+	New Column( "Spannung",
+		Numeric,
+		"Continuous",
+		Format( "Scientific", 12, 12 ),
+		Set Values(
+			[1.5, 1.4, 1.3, 1.3, 1.5, 1.2, 2.2, 2.2, 1.6, 1.6, 1.4, 1.2, 1.4, 1.5,
+			1.3]
+		)
+	),
+	New Column( "Sprung 0s - 1s",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values(
+			[28900, 29900, 17100, 2600, 14100, -4700, -6000, 166200, -20600, 11300,
+			3600, -1600, 6800, 12300, 7300]
+		)
+	),
+	New Column( "Verlauf (steigend/fallend(",
+		Character( 8 ),
+		"Nominal",
+		Set Values(
+			{"steigend", "steigend", "steigend", "steigend", "steigend", "fallend",
+			"steigt", "steigt", "fällt", "konstant", "fällt", "fällt", "konstant",
+			"konstant", "konstant"}
+		)
+	),
+	New Column( "Minimum - 0 Wert",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values(
+			[26600, 28000, 9000, -3400, 6500, -34900, -6000, 166200, -248600, 11300,
+			-7200, -11270, 6800, 12300, 7300]
+		)
+	),
+	New Column( "Zeit Maximum (s)",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values( [2, 2, 2, 2, 2, 0, 65, 98, 2, 60, 2, 2, 60, 60, 60] )
+	),
+	New Column( "Zeit Minimum",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values( [4, 6, 11, 9, 3, 37, 0, 2, 65, 0, 57, 15, 0, 0, 0] )
+	),
+	New Column( "Delay (Ja/Nein)",
+		Character( 8 ),
+		"Nominal",
+		Set Values(
+			{"Nein", "Nein", "Nein", "Ja", "Nein", "Nein", "Nein", "Nein", "Nein",
+			"Nein", "Nein", "Nein", "Nein", "Nein", "Nein"}
+		)
+	),
+	New Column( "Messreihenfolge",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values( [1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 7, 8, 9] )
+	),
+	New Column( "Zelle",
+		Numeric,
+		"Continuous",
+		Format( "Best", 12 ),
+		Set Values( [3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2] )
+	),
+	New Column( "Substrat",
+		Character( 8 ),
+		"Nominal",
+		Set Values(
+			{"G1331", "G1331", "G1331", "G1331", "G1331", "G1331", "G1331", "G1331",
+			"G1331", "G1331", "G1331", "G1331", "G1331", "G1331", "G1331"}
+		)
+	),
+	Set Row States( [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0] )
+) << Run Formulas;
+Distribution(
+	Continuous Distribution( Column( :Spannung ) ),
+	Continuous Distribution( Column( :"Sprung 0s - 1s"n ) ),
+	Nominal Distribution( Column( :"Verlauf (steigend/fallend("n ) ),
+	Continuous Distribution( Column( :"Minimum - 0 Wert"n ) ),
+	Continuous Distribution( Column( :"Zeit Maximum (s)"n ) ),
+	Continuous Distribution( Column( :Zeit Minimum ) ),
+	Continuous Distribution( Column( :Messreihenfolge ), Outlier Box Plot( 0 ) ),
+	Continuous Distribution( Column( :Zelle ) ),
+	SendToReport(
+		Dispatch(
+			{},
+			"Messreihenfolge",
+			OutlineBox,
+			{Set Title( "Messreihenfolge" )}
+		)
+	)
+);
