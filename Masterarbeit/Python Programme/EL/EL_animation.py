@@ -142,8 +142,8 @@ class EL_Animation(EL_Image):
             #Exposure_Time = float(self.filename.split('x')[-1].split('s')[0])
             # crop the EL image
             # P(x,y)
-            P1 = (585, 475)
-            P2 = (655, 545)
+            P1 = (600, 475)
+            P2 = (670, 545)
             self.crop_ELImage(Point1=P1, Point2=P2)
             EL_matrices.append(self.mat)#/Exposure_Time)
             #
@@ -158,7 +158,7 @@ class EL_Animation(EL_Image):
         a = EL_matrices[0]#/self.filename.split('x')
 
         im = plt.imshow(a, interpolation='none', aspect='auto', cmap='jet', vmin=1, vmax=4095)
-        #im = plt.imshow(a, interpolation='none', aspect='auto', cmap='jet', norm=colors.LogNorm(vmin=1, vmax=4095))
+        #im = plt.imshow(a, interpolation='none', aspect='auto', cmap='jet', norm=colors.LogNorm(vmin=1, vmax=1000))
         cbar = plt.colorbar(im)
         cbar.ax.set_ylabel('Counts')
        # time_template = 'Time = %.1fs'

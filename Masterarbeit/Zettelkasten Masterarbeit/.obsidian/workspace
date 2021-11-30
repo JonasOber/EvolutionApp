@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Permanent Notes/Electron Transport Material.md",
+            "file": "Quick Notes/2021_11_30.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Electron Transport Material.md",
+                "file": "Quick Notes/2021_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "faf8232e325186b5",
   "lastOpenFiles": [
+    "Quick Notes/2021_11_30.md",
+    "Permanent Notes/Untitled.md",
     "Permanent Notes/Electron Transport Material.md",
     "Literature Notes/Design of BCP buffer layer for inverted PSC.md",
     "Literature Notes/Understanding the impact of C60 at theinterface of perovskite solar cells via drift-diffusion modeling.md",
@@ -95,8 +97,6 @@
     "Literature Notes/ETL_Pero and Ag interface bands.png",
     "Literature Notes/HTM_Perovskite interface bands.png",
     "Literature Notes/Spiro-Linked Molecular Hole-Transport Materials for Highly Efficient Inverted Perovskite Solar Cells.md",
-    "Literature Notes/Minimal Effect of the Hole-Transport Material Ionization Potential on the Open-Circuit Voltage.md",
-    "Literature Notes/Hole selective contacts.md",
-    "Fleeting Notes/Hole selective contacts.md"
+    "Literature Notes/Minimal Effect of the Hole-Transport Material Ionization Potential on the Open-Circuit Voltage.md"
   ]
 }
