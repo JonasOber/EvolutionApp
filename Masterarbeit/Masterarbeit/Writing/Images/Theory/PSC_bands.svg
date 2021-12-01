@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.90583672"
-     inkscape:cx="304.1387"
+     inkscape:cx="305.24265"
      inkscape:cy="254.46087"
      inkscape:window-width="1680"
      inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="false" />
   <defs
      id="defs2">
@@ -141,14 +141,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.38651px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.342134"
        x="32.610016"
-       y="54.896858"
+       y="73.958511"
        id="text45053"
        transform="scale(1.0056361,0.99439549)"><tspan
          sodipodi:role="line"
          id="tspan45051"
          style="font-size:6.38651px;stroke-width:0.342134"
          x="32.610016"
-         y="54.896858">-4,8</tspan></text>
+         y="73.958511">-4,8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.84269px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.342134"
@@ -228,7 +228,7 @@
          y="119.75496">BCP</tspan></text>
     <g
        id="g50951"
-       transform="matrix(1.3003948,0,0,1.2858595,3.7910115,4.8381191)">
+       transform="matrix(1.3003948,0,0,1.2858595,3.7910115,23.792943)">
       <g
          id="g12075">
         <path

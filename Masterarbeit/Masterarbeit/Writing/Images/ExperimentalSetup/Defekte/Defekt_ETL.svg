@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Defekt_ETL.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="27.577164"
+     inkscape:cy="214.25335"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="100mm" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1744" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path1741" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1726" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1723" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Glas" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="ITO" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="ETL" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="PERO" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="HTL" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="GOLD" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff6600;fill-opacity:0.707692;stroke-width:6.59068"
+       id="rect2826-7-1"
+       width="129.01723"
+       height="35.83812"
+       x="5.0000005"
+       y="65.649483"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#000080;fill-opacity:0.707692;stroke-width:0.441103"
+       id="rect2487-1-3"
+       width="129.01723"
+       height="0.71676242"
+       x="5.0000005"
+       y="101.48761"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#008000;fill-opacity:0.707692;stroke-width:1.14898"
+       id="rect2948-2-1"
+       width="43.005745"
+       height="1.6485535"
+       x="5.0000005"
+       y="64.000847"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#58bc58;fill-opacity:0.707692;stroke-width:1.14898"
+       id="rect2948-2-1-3"
+       width="43.005745"
+       height="1.6485535"
+       x="5.0000005"
+       y="62.352272"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#008000;fill-opacity:0.707692;stroke-width:1.14898"
+       id="rect2948-2-1-4"
+       width="43.005745"
+       height="1.6485535"
+       x="91.011482"
+       y="64.000847"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#58bc58;fill-opacity:0.707692;stroke-width:1.14898"
+       id="rect2948-2-1-3-1"
+       width="43.005745"
+       height="1.6485535"
+       x="91.011482"
+       y="62.352272"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#d4af37;fill-opacity:1;stroke-width:0.672709"
+       id="rect6920-4-0-6-4-8"
+       width="43.005745"
+       height="7.1700001"
+       x="5.0000005"
+       y="55.182274"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#d4af37;fill-opacity:1;stroke-width:0.672709"
+       id="rect6920-4-0-6-4-8-81"
+       width="43.005745"
+       height="7.1700001"
+       x="91.011482"
+       y="55.182274"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <g
+       id="g1024"
+       transform="translate(-2.9232358,-63.006271)">
+      <rect
+         style="fill:#d4af37;fill-opacity:1;stroke-width:0.191547"
+         id="rect6920-8-4"
+         height="4.9999995"
+         x="7.9232364"
+         y="88.006271"
+         width="4.9999995" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="14.685528"
+         y="92.222603"
+         id="text7814"><tspan
+           sodipodi:role="line"
+           id="tspan7812"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="14.685528"
+           y="92.222603">Gold</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="14.685528"
+         y="102.2226"
+         id="text4481"><tspan
+           sodipodi:role="line"
+           id="tspan4479"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="14.685528"
+           y="102.2226">C60/BCP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="44.50983"
+         y="92.084114"
+         id="text5785"><tspan
+           sodipodi:role="line"
+           id="tspan5783"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="44.50983"
+           y="92.084114">MAPI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="44.646244"
+         y="102.13992"
+         id="text10127"><tspan
+           sodipodi:role="line"
+           id="tspan10125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="44.646244"
+           y="102.13992">Spiro-TTB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="44.68552"
+         y="112.6505"
+         id="text13757"><tspan
+           sodipodi:role="line"
+           id="tspan13755"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="44.68552"
+           y="112.6505">Glas</tspan></text>
+      <rect
+         style="fill:#007f00;fill-opacity:0.709804;stroke-width:0.191547"
+         id="rect6920-8-4-2"
+         height="4.9999995"
+         x="7.9232364"
+         y="98.006264"
+         width="4.9999995" />
+      <rect
+         style="fill:#ff6500;fill-opacity:0.709804;stroke-width:0.191547"
+         id="rect6920-8-4-2-4"
+         height="4.9999995"
+         x="37.923237"
+         y="88.006271"
+         width="4.9999995" />
+      <rect
+         style="fill:#00007f;fill-opacity:0.709804;stroke-width:0.191547"
+         id="rect6920-8-4-2-1"
+         height="4.9999995"
+         x="37.923237"
+         y="98.006264"
+         width="4.9999995" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.191547"
+         id="rect6920-8-4-2-9"
+         height="4.9999995"
+         x="37.923237"
+         y="108.20759"
+         width="4.9999995" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="14.507755"
+         y="112.42393"
+         id="text13757-4"><tspan
+           sodipodi:role="line"
+           id="tspan13755-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="14.507755"
+           y="112.42393">ITO</tspan></text>
+      <rect
+         style="fill:#d0c48c;fill-opacity:1;stroke-width:0.191547"
+         id="rect6920-8-4-2-9-8"
+         height="4.9999995"
+         x="7.9232364"
+         y="108.00626"
+         width="4.9999995" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 6.2649242,111.13067 c 0,16.08962 0,16.08962 0,16.08962 H 21.606195"
+       id="path1678" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.915817"
+       y="125.72359"
+       id="text4099"><tspan
+         sodipodi:role="line"
+         id="tspan4097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.915817"
+         y="125.72359">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.2003679"
+       y="110.00813"
+       id="text5081"><tspan
+         sodipodi:role="line"
+         id="tspan5079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="7.2003679"
+         y="110.00813">y</tspan></text>
+    <rect
+       style="fill:#d4af37;fill-opacity:1;stroke-width:0.672709"
+       id="rect6920-4-0-6-4-8-8"
+       width="43.005745"
+       height="7.1700001"
+       x="48.005745"
+       y="58.479404"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+    <rect
+       style="fill:#d0c48c;fill-opacity:1;stroke-width:1.39512"
+       id="rect2487-1-3-0"
+       width="129.01723"
+       height="7.1700001"
+       x="5.000001"
+       y="102.20437"
+       inkscape:export-filename="C:\Users\bomml\OneDrive\Dokumente\Uni\Masterarbeit\Masterarbeit\Writing\Images\ExperimentalSetup\rect2826-7-1.png"
+       inkscape:export-xdpi="1411.1112"
+       inkscape:export-ydpi="1411.1112" />
+  </g>
+</svg>
