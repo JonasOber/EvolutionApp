@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "faf8232e325186b5",
+        "id": "f69a48b7265960f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quick Notes/2021_11_30.md",
+            "file": "Literature Notes/Basis and effects of ion migration on photovoltaic performance of perovskite solar cells           Basis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Notes/2021_11_30.md",
+                "file": "Literature Notes/Basis and effects of ion migration on photovoltaic performance of perovskite solar cells           Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "faf8232e325186b5",
+  "active": "f69a48b7265960f0",
   "lastOpenFiles": [
-    "Quick Notes/2021_11_30.md",
-    "Permanent Notes/Untitled.md",
-    "Permanent Notes/Electron Transport Material.md",
+    "Literature Notes/Basis and effects of ion migration on photovoltaic performance of perovskite solar cells           Basis.md",
+    "Permanent Notes/Perovskite Solar Cells.md",
     "Literature Notes/Design of BCP buffer layer for inverted PSC.md",
-    "Literature Notes/Understanding the impact of C60 at theinterface of perovskite solar cells via drift-diffusion modeling.md",
     "Templates/Note Template.md",
+    "Permanent Notes/Electron Transport Material.md",
+    "Literature Notes/Understanding the impact of C60 at theinterface of perovskite solar cells via drift-diffusion modeling.md",
     "Literature Notes/ETL_Pero and Ag interface bands.png",
     "Literature Notes/HTM_Perovskite interface bands.png",
     "Literature Notes/Spiro-Linked Molecular Hole-Transport Materials for Highly Efficient Inverted Perovskite Solar Cells.md",
