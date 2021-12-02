@@ -7,13 +7,11 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 # import scipy.ndimage
 import tkinter as tk
 from tkinter import filedialog
+plt.style.use('../PL/plot.mplstyle')
 
 plt.rcParams['font.family'] = "Arial"
 plt.rcParams['font.size'] = 14
 # from scipy.ndimage.measurements import label
-
-root = tk.Tk()
-root.withdraw()
 
 
 class Linescan():
@@ -28,6 +26,8 @@ class Linescan():
         self.mat = matrix
         self.do_linescan()
         self.index = line_index
+        self._y_spacing=1
+        self.yvals = np.arange(0, len(self.zi), 1)
 
     def do_linescan(self):
         # extract x and y, beginning and endpoints from coords
@@ -48,13 +48,19 @@ class Linescan():
         """
         Plot the linescan on a given axis.
         """
+        xinterval, yinterval = self.coords
+        x0, x1 = xinterval
+        y0, y1 = yinterval
         y = np.arange(0, len(self.zi), 1)
         if self.index == 2:
-            linescan_label = "Kamera"
+            #linescan_label = "Kamera"
+            linescan_label = "mit Extender"
         elif self.index == 1:
-            linescan_label = "EL"
-        ax.step(y, self.zi, label=linescan_label, where='mid')
-
+            #linescan_label = "EL"
+            linescan_label = "ohne Extender"
+        #x = np.multiply(np.arange(y0, y1, 1),self._y_spacing)
+        ax.step(self.yvals, self.zi, label=linescan_label, where='mid')
+        #return ax
     def imshow_linescan(self, ax):
         xinterval, yinterval = self.coords
         x0, x1 = xinterval
@@ -66,6 +72,12 @@ class Linescan():
         ax.text(x0 + 2, y0 - 2, str(self.index), color=text_color)
         return ax
 
+    def set_yspacing(self, dy):
+        xinterval, yinterval = self.coords
+        x0, x1 = xinterval
+        y0, y1 = yinterval
+        self._y_spacing = dy
+        self.yvals = np.arange(0, len(self.zi), 1)*dy
 
 class EL_Image():
     def __init__(self, path):
@@ -163,9 +175,9 @@ class EL_Image():
         """
         # set coordinates for our linescans
         coords = ((x0, x1), (y0, y1))
-
+        coords_E = ((2*x0, 2*x1), (2*y0, 2*y1))
         line01 = Linescan(coords, self.mat, 1)
-        line02 = Linescan(coords, other.mat, 2)
+        line02 = Linescan(coords_E, other.mat, 2)
 
         # -- Prepare the figure
         fig = plt.figure(figsize=(3 * 11 / 2.54, 11 / 2.54))
@@ -176,7 +188,7 @@ class EL_Image():
         divider = make_axes_locatable(ax0)
         cax = divider.append_axes('right', size='5%', pad=0.05)
         # imshow the matrix
-        im = ax0.imshow(other.mat, cmap='gray', origin='upper', vmin=0, vmax=4095)
+        im = ax0.imshow(other.mat, cmap='jet', origin='upper', vmin=0, vmax=4095)
         # plot the linescan on imshow
         line02.imshow_linescan(ax0)
 
@@ -184,6 +196,7 @@ class EL_Image():
         ax0.set_xlabel("x (pixel)")
         ax0.set_ylabel("y (pixel)")
         # set y ticks
+        EL_ticks = np.arange(0, 160, 40)
         ax0.set_yticks(EL_ticks)
         ax0.set_xticks(EL_ticks)
         # add the colorbar
@@ -202,7 +215,7 @@ class EL_Image():
         ax.set_xlabel("x (pixel)")
         ax.set_ylabel("y (pixel)")
         # set y ticks
-        EL_ticks = np.arange(0, 160, 40)
+        EL_ticks = np.arange(0, 80, 20)
         ax.set_yticks(EL_ticks)
         ax.set_xticks(EL_ticks)
         # add the colorbar
@@ -210,6 +223,7 @@ class EL_Image():
         # add axes for the linescan: intensity(position) plot
         ax2 = fig.add_subplot(133)
         # plot the linescan intensity values along it's path
+        line01.set_yspacing(2)
         line01.plot_linescan(ax2)
         line02.plot_linescan(ax2)
         # ax2.set_ylim(0, 3000)
@@ -222,9 +236,37 @@ class EL_Image():
         ax2.yaxis.set_ticks_position('both')
         ax2.xaxis.set_ticks_position('both')
 
-        ax2.legend()
+        ax2.legend(loc=2)
         plt.tight_layout()
         # save the figure
         plt.savefig("Pictures/Linescan.svg", transparent='true')
         plt.show()
 
+
+root = tk.Tk()
+root.withdraw()
+# pick first EL without extender
+
+image_01 = filedialog.askopenfilename()
+# pick with extender
+image_02 = filedialog.askopenfilename()
+#P(x,y)
+# Extender
+#P1 = (520,400)
+#P2 = (670,550)
+# ohne Extender
+
+
+P1 = (590,468)
+P2 = (670,548)
+EL_01 = EL_Image(image_01)
+EL_01.crop_ELImage(Point1=P1, Point2=P2)
+EL_02 = EL_Image(image_02)
+# now extender pic with 160 pixels
+P1 = (540,390)
+P2 = (700,550)
+EL_02.crop_ELImage(Point1=P1, Point2=P2)
+
+#EL_01.EL_Linescan(EL_02, 110, 110, 40, 110)
+
+EL_01.EL_Linescan(EL_02, 45, 45, 20, 70)

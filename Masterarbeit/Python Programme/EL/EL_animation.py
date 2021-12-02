@@ -14,6 +14,15 @@ import matplotlib.cbook as cbook
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import matplotlib.animation as animation
 plt.rcParams['animation.ffmpeg_path'] = 'C:/Program Files/ffmpeg-n4.4.1-2-gcc33e73618-win64-gpl-4.4/bin/ffmpeg'
+class Rectangle():
+    def __init__(self, coords):
+        xinterval, yinterval = self.coords
+        self.x0, self.x1 = xinterval
+        self.y0, self.y1 = yinterval
+
+    def Rectangle_mean(self, Matrix):
+        self.Mean = np.mean(Matrix[self.y0:self.y1][self.x0, self.x1])
+        return Mean
 
 class EL_Image():
     def __init__(self, path):

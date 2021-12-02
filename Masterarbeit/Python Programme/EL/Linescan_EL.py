@@ -9,12 +9,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 from mpl_toolkits.axes_grid1 import make_axes_locatable
-import scipy.ndimage
+#import scipy.ndimage
 import tkinter as tk
 from tkinter import filedialog
 plt.rcParams['font.family'] = "Arial"
 plt.rcParams['font.size'] = 14
-from scipy.ndimage.measurements import label
+#from scipy.ndimage.measurements import label
 
 root = tk.Tk()
 root.withdraw()
@@ -184,7 +184,8 @@ class EL_Image():
         ax0.set_xlabel("x (pixel)")
         ax0.set_ylabel("y (pixel)")
         # set y ticks
-        ax0.set_yticks(np.arange(0,70,20))
+        ax0.set_yticks(EL_ticks)
+        ax0.set_xticks(EL_ticks)
         # add the colorbar
         fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
 
@@ -201,7 +202,9 @@ class EL_Image():
         ax.set_xlabel("x (pixel)")
         ax.set_ylabel("y (pixel)")
         # set y ticks
-        ax.set_yticks(np.arange(0,70,20))
+        EL_ticks = np.arange(0, 160, 40)
+        ax.set_yticks(EL_ticks)
+        ax.set_xticks(EL_ticks)
         # add the colorbar
         fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
         # add axes for the linescan: intensity(position) plot
@@ -222,7 +225,7 @@ class EL_Image():
         ax2.legend()
         plt.tight_layout()
         # save the figure
-        plt.savefig("C:/Users/bomml/Documents/Python/EL/Linescan.svg", transparent='true')
+        plt.savefig("Pictures/Linescan.svg", transparent='true')
         plt.show()
 
         
@@ -237,12 +240,19 @@ image_01 = filedialog.askopenfilename()
 
 image_02 = filedialog.askopenfilename()
 #P(x,y)
-P1 = (610,480)
-P2 = (680,550)
+# Extender
+#P1 = (520,400)
+#P2 = (670,550)
+# ohne Extender
+
+P1 = (590,470)
+P2 = (670,550)
 
 EL_01 = EL_Image(image_01)
 EL_01.crop_ELImage(Point1=P1, Point2=P2)
 EL_02 = EL_Image(image_02)
 EL_02.crop_ELImage(Point1=P1, Point2=P2)
 
-EL_01.EL_Linescan(EL_02, 20, 20, 8, 69)
+#EL_01.EL_Linescan(EL_02, 110, 110, 40, 110)
+
+EL_01.EL_Linescan(EL_02, 45, 45, 20, 70)
