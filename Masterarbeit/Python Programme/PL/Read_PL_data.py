@@ -13,17 +13,16 @@ root.withdraw()
 import codecs
 blockSize = 1048576
 #image_01 = filedialog.askopenfilename()
-image_01 = "C:/Users/j.oberroehrmann/Documents/Messdaten/PL/P3T_063/20211202_G1963/G1963_Zelle4_aufPero_oben_01.l6s"
-with codecs.open(image_01,"r",encoding="mbcs") as sourceFile:
-    with codecs.open("PL_data.txt","w",encoding="UTF-8") as targetFile:
-        while True:
-            contents = sourceFile.read(blockSize)
-            if not contents:
-                break
-            targetFile.write(contents)
-# mbcs for ansi
+image_01 = "G1963_Zelle4_aufPero_01.txt"
 
-#print(unicoded_file)
+with open(image_01, 'r') as file:
+    data = file.readlines()
 
-#with open("PL_data.txt", 'w') as data:
-#    data.write(unicoded_file)
+wavelengths = [float(item.strip().split("\t")[0]) for item in data]
+Spectrum = [float(item.strip().split("\t")[1]) for item in data]
+fig = plt.figure()
+ax = fig.add_subplot(111)
+ax.plot(Spectrum)
+
+ax.set_aspect(1.0/ax.get_data_ratio(), adjustable='box')
+plt.show()
