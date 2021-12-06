@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.1)  1 DEC 2021 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.1)  6 DEC 2021 17:26
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2133,29 +2133,8 @@ in a single page
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./svg-inkscape/ExperimentalS
 etupSketch_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included 
 in a single page
->]
-Package svg Info: Last page of `./svg-inkscape/PL_spectrum_MAPIcell_with_filter
-_PPT_svg-tex.pdf' is 1 on input line 41.
- (./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf_tex
-<./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, id=150, page=
-1, 361.35pt x 361.35pt>
-File: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf Graphic f
-ile (type pdf)
-<use ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, page 1>
-Package pdftex.def Info: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_sv
-g-tex.pdf , page1 used on input line 56.
-(pdftex.def)             Requested size: 361.34999pt x 361.35463pt.
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
-
- []
-
-[8 <./svg-inkscape/Pero_Layout_side_svg-tex.pdf> <./svg-inkscape/Pero_Layout_si
-de_svg-tex.pdf
+>] [8 <./svg-inkscape/Pero_Layout_side_svg-tex.pdf> <./svg-inkscape/Pero_Layout
+_side_svg-tex.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./svg-inkscape/Pero_Layout_s
 ide_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a si
@@ -2166,43 +2145,65 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./svg-inkscape/Pero_Layout_s
 ide_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a si
 ngle page
 >]
+Package svg Info: Last page of `./svg-inkscape/PL_spectrum_MAPIcell_with_filter
+_PPT_svg-tex.pdf' is 1 on input line 40.
+ (./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf_tex
+<./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, id=158, page=
+1, 361.35pt x 361.35pt>
+File: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf Graphic f
+ile (type pdf)
+<use ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_sv
+g-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 361.34999pt x 361.35463pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
-LaTeX Warning: Citation 'SchnellCCD1993' on page 9 undefined on input line 53.
+ []
+
+[9 <./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf>]
+
+LaTeX Warning: Citation 'SchnellCCD1993' on page 10 undefined on input line 52.
 
 
-LaTeX Warning: Reference `fig:pcosensicamqe' on page 9 undefined on input line 
-53.
 
-<Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png, id=163, 803.0pt
+LaTeX Warning: Reference `fig:pcosensicamqe' on page 10 undefined on input line
+ 52.
+
+<Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png, id=189, 803.0pt
  x 349.305pt>
 File: Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png Graphic fil
 e (type png)
 <use Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>
 Package pdftex.def Info: Images/ExperimentalSetup/ccd-sensor-interline-transfer
--en.png  used on input line 56.
+-en.png  used on input line 55.
 (pdftex.def)             Requested size: 426.79141pt x 185.65843pt.
 
-LaTeX Warning: Citation 'StemmerCCD' on page 9 undefined on input line 57.
+LaTeX Warning: Citation 'StemmerCCD' on page 10 undefined on input line 56.
 
 
-LaTeX Warning: Citation 'StemmerCCD' on page 9 undefined on input line 57.
+LaTeX Warning: Citation 'StemmerCCD' on page 10 undefined on input line 56.
 
-[9 <./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[10 <./Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-LaTeX Warning: Citation 'ManualSensicam' on page 10 undefined on input line 72.
+LaTeX Warning: Citation 'ManualSensicam' on page 12 undefined on input line 71.
 
 
-[10 <./Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>])
-[11]
+)
+Underfull \hbox (badness 10000) in paragraph at lines 71--44
+
+ []
+
+[12]
 \openout2 = `Content/Experimental.aux'.
 
  (./Content/Experimental.tex
 chapter 5.
-) [12
+) [13
 
 
 
@@ -2239,11 +2240,11 @@ Package logreq Info: Writing requests to 'Masterarbeit_MainDocument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46623 strings out of 492616
- 924189 string characters out of 6129481
- 1510358 words of memory out of 5000000
+ 46628 strings out of 492616
+ 924236 string characters out of 6129481
+ 1511360 words of memory out of 5000000
  49664 multiletter control sequences out of 15000+600000
- 625318 words of font info for 131 fonts, out of 8000000 for 9000
+ 625500 words of font info for 133 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  67i,21n,79p,9128b,1852s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.40} has been referenced but does not ex
@@ -2283,10 +2284,10 @@ fb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/tex
 live/2019/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2019/t
 exmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Masterarbeit_MainDocument.pdf (14 pages, 463311 bytes).
+Output written on Masterarbeit_MainDocument.pdf (15 pages, 464746 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 327 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
  30964 words of extra memory for PDF output out of 35830 (max. 10000000)
 

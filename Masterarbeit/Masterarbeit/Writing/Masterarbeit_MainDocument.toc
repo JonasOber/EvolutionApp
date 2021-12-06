@@ -14,6 +14,6 @@
 \contentsline {section}{\numberline {4.3}Luminescence detection}{8}{section.32}% 
 \contentsline {subsection}{\numberline {4.3.1}Filters}{8}{subsection.33}% 
 \contentsline {subsection}{\numberline {4.3.2}Optics}{9}{subsection.36}% 
-\contentsline {subsection}{\numberline {4.3.3}Charge Coupled Detectors}{9}{subsection.38}% 
-\contentsline {section}{\numberline {4.4}Noise and measurement errors}{10}{section.42}% 
-\contentsline {chapter}{\numberline {5}Experimental part}{12}{chapter.43}% 
+\contentsline {subsection}{\numberline {4.3.3}Charge Coupled Detectors}{10}{subsection.38}% 
+\contentsline {section}{\numberline {4.4}Noise and measurement errors}{12}{section.42}% 
+\contentsline {chapter}{\numberline {5}Experimental part}{13}{chapter.43}% 
