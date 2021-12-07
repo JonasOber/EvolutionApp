@@ -10,7 +10,7 @@ from scipy.linalg import solve
 # Constants
 n_i = 0.99e10 # cm^-3
 N_A = 1e16 # cm^-3
-k_B = 
+k_B = 1.38e-23 # m^2 kg/(s^2 K)
 T = 300 #K
 hbar = 6.636e-34 # Js
 V_T = k_B * T/hbar
@@ -18,12 +18,14 @@ V_applied = 1 #V
 L_b = 264 # um
 S_rear = 600 # cm/s
 W_b = 200 # um
+# Diffusion coeff for electrons in si
+D = 36 # cm^2/s
 L_eff = L_b * (L_b * S_rear * np.sinh(W_b/L_b) + D * np.cosh(W_b/L_b))/ (L_b * S_rear * np.cosh(W_b/L_b) + D * np.sinh(W_b/L_b))
 
-# mobility in Silicon
+# x scale for charge concentration in Silicon
+z_analytic = np.linspace(0, 200, 1000)*1E-6
+print(z_analytic)
 
-# Diffusion coeff
-D = 36 # cm^2/s
 # Functions
 def n1(V_i):
     # returns the boundary condition for an applied voltage
@@ -35,8 +37,16 @@ boundary_charge = n1(V_applied)
 # Srear delta n_Wb = - D * d/dz delta n(z) at z = W_b
 
 # analytic solution
+@np.vectorize
 def dark_charge_concentration(z):
     return boundary_charge * (np.cosh(z/L_b) - L_b/L_eff * np.sinh(z/L_b))
+
+# charge carrier concentraiton
+charge_concentration = dark_charge_concentration(z_analytic)
+fig = plt.figure()
+ax = fig.add_subplot(111)
+ax.plot(z_analytic, charge_concentration)
+plt.show()
 
 
 
