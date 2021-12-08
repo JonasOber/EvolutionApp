@@ -7,7 +7,7 @@
    viewBox="0 0 150 150"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="PSC_bands_lines_contact.svg.2021_12_08_14_37_16.0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.3885646"
-     inkscape:cx="216.86665"
-     inkscape:cy="194.46826"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:zoom="1.1942823"
+     inkscape:cx="449.22377"
+     inkscape:cy="193.84027"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="false" />
@@ -219,15 +219,15 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.278786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1696)"
-       d="m 3.7106209,2.2825231 c 0,97.0054609 0,97.0054609 0,97.0054609"
+       d="m 7.339338,6.4381187 c 0,97.0054613 0,97.0054613 0,97.0054613"
        id="path1353" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1740)"
-       d="m 1.3712829,2.2690895 c 131.4247771,0 131.4247771,0 131.4247771,0"
+       d="m 5,6.4246851 c 131.42478,0 131.42478,0 131.42478,0"
        id="path1737" />
     <g
        id="g11575"
-       transform="translate(0,10.465845)">
+       transform="translate(3.6287171,14.621441)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
@@ -256,7 +256,7 @@
          id="g12101-6"
          transform="matrix(1,0,0,0.94712569,30,-17.164183)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.22236756"
+           style="opacity:0.222368;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1252-3-4" />
       </g>
@@ -264,7 +264,7 @@
          id="g1080"
          transform="matrix(1,0,0,0.94712569,30,11.335818)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.18232256"
+           style="opacity:0.182323;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1078" />
       </g>
@@ -289,42 +289,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="15.987958"
-       y="15.269032"
+       x="19.616674"
+       y="19.424627"
        id="text5813"><tspan
          sodipodi:role="line"
          id="tspan5811"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="15.987958"
-         y="15.269032">Vacuum</tspan></text>
+         x="19.616674"
+         y="19.424627">Vacuum</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 35.000001,57.326511 -3e-6,3.500247"
+       d="m 38.628718,61.482107 -3e-6,3.500247"
        id="path11796" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="m 34.999998,32.326757 3e-6,24.999754"
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.628715,36.482353 3e-6,24.999754"
        id="path11798" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.18918077"
-       d="m 50,60.826758 v 2.5"
+       style="opacity:0.189181;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.628717,64.982354 v 2.5"
        id="path11802" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="M 50,32.326757 V 48.326756"
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.628717,36.482353 V 52.482352"
        id="path1210" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50,48.326756 c 0,0.40526 0,0.810255 2.500181,1.012621 2.500182,0.202367 7.500082,0.202367 9.99995,-3e-6 2.499868,-0.202371 2.499868,-0.607358 2.499868,-1.012618"
-       id="path6440"
-       inkscape:path-effect="#path-effect6442"
-       inkscape:original-d="m 50,48.326756 c 2.64e-4,0.40526 2.64e-4,0.810255 0,1.214988 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0 2.64e-4,-0.404741 2.64e-4,-0.809728 0,-1.214988" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50,63.326758 c 0,0.40526 0,0.810255 2.500181,1.01262 2.500182,0.202365 7.500082,0.202365 9.99995,-4e-6 2.499868,-0.202369 2.499868,-0.607356 2.499868,-1.012616"
-       id="path6637"
-       inkscape:path-effect="#path-effect6639"
-       inkscape:original-d="m 50,63.326758 c 2.64e-4,0.40526 2.64e-4,0.810255 0,1.214985 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0 2.64e-4,-0.404738 2.64e-4,-0.809725 0,-1.214985" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -333,53 +321,69 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-93.051003"
-       y="45.675461"
+       x="-97.066879"
+       y="49.432117"
        id="text2894"
-       transform="matrix(0.00311067,-1.0316943,0.96926939,0.00331101,0,0)"><tspan
+       transform="matrix(0.00311067,-1.0316943,0.96926939,0.00331101,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan2892"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
-         x="-93.051003"
-         y="45.675461">HTL</tspan></text>
+         x="-97.066879"
+         y="49.432117">HTL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-95.681534"
-       y="57.572945"
+       x="-99.839096"
+       y="61.172173"
        id="text5069"
-       transform="matrix(-0.03421575,-1.0310564,0.96867046,-0.03641939,0,0)"><tspan
+       transform="matrix(-0.03421575,-1.0310564,0.96867046,-0.03641939,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan5067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
-         x="-95.681534"
-         y="57.572945">Pero</tspan></text>
+         x="-99.839096"
+         y="61.172173">Pero</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-93.081558"
-       y="76.339203"
+       x="-97.109474"
+       y="80.082947"
        id="text7268"
-       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan7266"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
-         x="-93.081558"
-         y="76.339203">C60</tspan></text>
+         x="-97.109474"
+         y="80.082947">C60</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-93.236588"
-       y="91.814697"
+       x="-97.264503"
+       y="95.558441"
        id="text9318"
-       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan9316"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
-         x="-93.236588"
-         y="91.814697">BCP</tspan></text>
+         x="-97.264503"
+         y="95.558441">BCP</tspan></text>
     <g
-       id="g11561">
+       id="g11561"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
@@ -412,71 +416,89 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.257359"
-       x="-97.998596"
-       y="28.290148"
+       x="-102.27084"
+       y="31.819788"
        id="text9630"
-       transform="matrix(0,-0.97269669,1.0280697,0,0,0)"><tspan
+       transform="matrix(0,-0.97269669,1.0280697,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan9628"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.257359"
-         x="-97.998596"
-         y="28.290148">ITO</tspan></text>
+         x="-102.27084"
+         y="31.819788">ITO</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-91.545738"
-       y="14.40933"
+       x="-95.573654"
+       y="18.153076"
        id="text10140"
-       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan10138"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
-         x="-91.545738"
-         y="14.40933">Au</tspan></text>
+         x="-95.573654"
+         y="18.153076">Au</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="-91.545738"
-       y="106.40972"
+       x="-95.573654"
+       y="110.15347"
        id="text10140-6"
-       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan10138-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
-         x="-91.545738"
-         y="106.40972">Au</tspan></text>
+         x="-95.573654"
+         y="110.15347">Au</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="7.7495294"
-       y="7.4653873"
+       x="11.493275"
+       y="11.4933"
        id="text13205"
-       transform="scale(0.96927448,1.0316995)"><tspan
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan13203"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
-         x="7.7495294"
-         y="7.4653873">Energie (eV)</tspan></text>
+         x="11.493275"
+         y="11.4933">Energie (eV)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
-       x="128.47003"
-       y="7.8163128"
+       x="118.23203"
+       y="11.844226"
        id="text14121"
-       transform="scale(0.96927448,1.0316995)"><tspan
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14119"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
-         x="128.47003"
-         y="7.8163128">Position (m)</tspan></text>
+         x="118.23203"
+         y="11.844226">Position (m)</tspan></text>
     <g
        id="g11597"
-       transform="translate(0,1.2149869)">
+       transform="translate(3.6287171,5.3705825)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g1164"
          transform="matrix(1,0,0,0.94712568,45,13.835818)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.24453446"
+           style="opacity:0.244534;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1162" />
       </g>
@@ -484,7 +506,7 @@
          id="g1168"
          transform="matrix(1,0,0,0.94712568,45,-1.1641826)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.20961017"
+           style="opacity:0.20961;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1166" />
       </g>
@@ -532,7 +554,10 @@
     </g>
     <g
        id="g11619"
-       transform="translate(0,0.92356508)">
+       transform="translate(3.6287171,1.3749939)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g1172"
          transform="matrix(1,0,0,0.94712568,59.999999,1.8358178)">
@@ -593,12 +618,15 @@
     </g>
     <g
        id="g11641"
-       transform="translate(0,0.51373181)">
+       transform="translate(3.6287171,-0.62233954)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g1260"
          transform="matrix(1,0,0,0.94712568,75.000001,29.835816)">
         <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;opacity:0.26392433"
+           style="opacity:0.263924;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1258" />
       </g>
@@ -606,7 +634,7 @@
          id="g1344"
          transform="matrix(1,0,0,0.94712568,75.000001,-5.164183)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.20284552"
+           style="opacity:0.202845;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 5,52.253825 H 20"
            id="path1342" />
       </g>
@@ -653,7 +681,11 @@
            y="81.964645">-7,0</tspan></text>
     </g>
     <g
-       id="g11549">
+       id="g11549"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
       <g
          id="g12101"
          transform="matrix(1,0,0,0.94712568,0,12.835818)">
@@ -684,7 +716,11 @@
            y="65.63501">-5,3</tspan></text>
     </g>
     <g
-       id="g11653">
+       id="g11653"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
       <g
          id="g12101-7"
          transform="matrix(0.88981793,0,0,0.94712568,81.963956,18.561616)">
@@ -715,65 +751,46 @@
            y="66.031372">-5,3</tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="m 64.999999,48.326756 v 3"
-       id="path1005" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.628716,52.482352 v 3"
+       id="path1005"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="m 64.999999,63.326758 v 4.999998"
-       id="path1007" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.628716,67.482354 v 4.999998"
+       id="path1007"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="M 79.999998,51.326756 80,44.326757"
-       id="path1009" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.628715,55.482352 2e-6,-6.999999"
+       id="path1009"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="M 79.999998,68.326756 80,79.326755"
-       id="path1011" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.628715,72.482352 2e-6,10.999999"
+       id="path1011"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="M 94.999999,62.326757 V 79.326755"
-       id="path1013" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 98.628716,66.482353 V 83.482351"
+       id="path1013"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.28557236"
-       d="m 94.999999,44.326757 v 18"
-       id="path1015" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.999998,32.326757 c 0,3.48888 0,6.977494 2.500183,8.72167 2.500183,1.744175 7.500083,1.744175 9.999951,0 C 50,39.304252 50,35.815372 50,32.326757"
-       id="path1182"
-       inkscape:path-effect="#path-effect1184"
-       inkscape:original-d="m 34.999998,32.326757 c 2.65e-4,3.48888 2.65e-4,6.977494 0,10.465845 5.000366,2.64e-4 10.000266,2.64e-4 15.000002,0 2.65e-4,-3.48835 0,-10.465845 0,-10.465845"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 94.999997,79.326755 c 1e-6,0.171508 1e-6,0.342752 -2.499915,0.428242 -2.499917,0.08549 -7.499817,0.08549 -12.500082,0.08549"
-       id="path1299"
-       inkscape:path-effect="#path-effect1301"
-       inkscape:original-d="m 94.999997,79.326755 c 2.64e-4,0.171508 2.64e-4,0.342752 2e-6,0.513731 -4.999834,2.64e-4 -9.999734,2.64e-4 -14.999999,0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 94.999997,44.326757 c 1e-6,0.171508 1e-6,0.342751 -2.499915,0.428241 -2.499917,0.08549 -7.499817,0.08549 -12.500082,0.08549"
-       id="path2443"
-       inkscape:path-effect="#path-effect2445"
-       inkscape:original-d="m 94.999997,44.326757 c 2.64e-4,0.171508 2.64e-4,0.342751 2e-6,0.51373 -4.999834,2.65e-4 -9.999734,2.65e-4 -14.999999,0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.999998,60.826758 c 0,3.488878 0,6.977493 2.500183,8.721669 2.500183,1.744176 7.500083,1.744176 12.499819,1.744176"
-       id="path2956"
-       inkscape:path-effect="#path-effect2958"
-       inkscape:original-d="m 34.999998,60.826758 c 2.65e-4,3.488878 2.65e-4,6.977493 0,10.465845 5.000366,2.64e-4 10.000266,2.64e-4 15.000002,0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 64.999999,66.210088 c 0,1.013674 0,2.027087 2.500181,2.533659 2.500182,0.506573 7.500082,0.506573 9.99995,-1e-5 2.499868,-0.506584 2.499868,-1.519975 2.499868,-2.533649"
-       id="path7060"
-       inkscape:path-effect="#path-effect7062"
-       inkscape:original-d="m 64.999999,66.210088 c 2.64e-4,1.013674 2.64e-4,2.027087 0,3.040232 5.000363,2.64e-4 10.000263,2.64e-4 14.999999,0 2.64e-4,-1.013167 2.64e-4,-2.026558 0,-3.040232" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 64.999999,49.210088 c 0,1.013674 0,2.027086 2.500181,2.533658 2.500182,0.506573 7.500082,0.506573 9.99995,-1e-5 2.499868,-0.506583 2.499868,-1.519974 2.499868,-2.533648"
-       id="path7064"
-       inkscape:path-effect="#path-effect7066"
-       inkscape:original-d="m 64.999999,49.210088 c 2.64e-4,1.013674 2.64e-4,2.027086 0,3.040231 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0 2.64e-4,-1.013166 2.64e-4,-2.026557 0,-3.040231" />
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.628716,48.482353 v 18"
+       id="path1015"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
