@@ -20,7 +20,7 @@ singlespacing %onehalfspacing,doublespacing
 %\ihead[]{\authA~(\matA)\\\authB~(\matB)\\\authC~(\matC)}
 
 \cfoot[]{\thepage}
-\usepackage[left=3cm,right=3cm,top=1.5cm,bottom=1cm,includeheadfoot]{geometry}
+\usepackage[left=3cm,right=3cm,top=1cm,bottom=1cm,includeheadfoot]{geometry}
 
 %better positioning of floatings
 \renewcommand{\floatpagefraction}{.75} % standard: .5
@@ -50,7 +50,7 @@ protrusion=true
 %---Units
 \usepackage{siunitx}
 
-%---tables and imgaes
+%---s and imgaes
 \usepackage{graphicx} %provide \includegraphics[options]{name}
 \usepackage{epstopdf} %enable the use of eps-graphics
 \usepackage[hypcap, labelfont=bf]{caption} %captions out of floating-enviorments(figure,table)
@@ -62,6 +62,17 @@ protrusion=true
 %---Hyperlinks
 \usepackage{hyperref} %create table of content and references as links
 
+%-------Tables
+\usepackage[table, svgnames]{xcolor} \usepackage{array}
+\usepackage{cellspace}
+\setlength\cellspacetoplimit{4pt}
+\setlength\cellspacebottomlimit{4pt}
+\usepackage{etoolbox}
+\colorlet{headercolour}{LightGray}
+\captionsetup[table]{skip=15pt}
+%\newenvironment{mytabular}{\rowcolors{1}{\ifnumless{\rownum}{2}{headercolour}{white}}{}\tabular}{\endtabular}
+
+\AtBeginEnvironment{tabular}{\rowcolors{1}{\ifnumless{\rownum}{2}{headercolour}{white}}{}}
 %---Tikz package
 \usepackage{tikz}
 \hypersetup{
@@ -69,7 +80,7 @@ protrusion=true
 	%Colors 
 	colorlinks=true, 
 	breaklinks=true, 
-	citecolor=red, 
+	citecolor=black, 
 	linkcolor=black, 
 	menucolor=red, 
 	urlcolor=cyan,
