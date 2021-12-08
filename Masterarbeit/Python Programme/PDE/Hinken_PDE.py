@@ -16,15 +16,15 @@ hbar = 6.636/(2*np.pi)*1e-34 # Js, 1J = 1kg m^2/s^2
 #V_T = k_B * T/hbar # 1V = kg m^2 /(As^3)
 V_T = 25.7e-3 #V
 V_applied = 0.55 #V 
-L_b = 264*1e-4 # cm
-S_rear = 600 # cm/s
-W_b = 200*1e-4 # cm
+L_b = 264*1e-6 # m
+S_rear = 600*1e-2 # m/s
+W_b = 200*1e-6 # m
 # Diffusion coeff for electrons in si
-D = 36 # cm^2/s
+D = 36*1e-2 # m^2/s
 L_eff = L_b * (L_b * S_rear * np.sinh(W_b/L_b) + D * np.cosh(W_b/L_b))/ (L_b * S_rear * np.cosh(W_b/L_b) + D * np.sinh(W_b/L_b))
 
-# x scale for charge concentration in Silicon
-z_analytic = np.linspace(0, 200, 1000)*1E-6
+# x scale for charge concentration in Silicon, [z]= m
+z_analytic = np.linspace(0, W_b, 1000)
 #print(z_analytic)
 
 # Functions
@@ -51,8 +51,8 @@ PDE: -D/L_b**2 * n(z) + D d^2 n(z)/dz^2 = 0
     d^2 n/dz^2 = (n_j-1 + n_j+1 - 2*n_j)/h^2
 """
 # get the Matrix
-N = 30
-x_discrete = np.linspace(0, W_b*1e-2, N+2)
+N = 200
+x_discrete = np.linspace(0, W_b, N+2)
 h = W_b*1e-2/N # now h is in m
 diagonal_element = -( 1/(L_b*1e-2)**2 + 2/h**2)
 M = np.zeros((N,N))
@@ -70,8 +70,8 @@ b[0] = boundary_charge_left
 # right side at z=W_b: Srear*n_N+1 = -D ( n_N+1 - n_N)/h
 # => (Srear+D/h) *n_N+1 - D/h * n_N = 0
 # DIESE HIER NOCHMAL CHECKEN, das passst noch nicht 
-M[N+1][N] = -D/h
-M[N+1][N+1] = (S_rear+D/h)
+M[N+1][N] = 1
+M[N+1][N+1] = -(S_rear*h/D + 1)
 #print(M)
 sol = solve(M, b)
 #print(sol)
@@ -82,11 +82,14 @@ ax = fig.add_subplot(111)
 #print(z_analytic)
 #print(x_discrete)
 ax.plot(z_analytic*1e6, charge_concentration*1e-12, label='Analytic')
-ax.plot(x_discrete*1e6, sol*1e-12, '--', label='FD')
+ax.plot(x_discrete*1e6, sol*1e-12, '--', label=f'FD mit {N} Schritten.')
 ax.set_ylabel(r"Excess carrier density $\Delta$n 10$^{12}$ (cm$^3$)")
 ax.set_xlabel(r"Distance from front ($\mu$m)")
+ax.set_ylim(0,20)
+ax.set_aspect(1.0/ax.get_data_ratio(), adjustable='box')
+
 ax.legend()
-plt.savefig("pde_silicon.png")
+plt.savefig("PDE/pde_silicon.svg")
 
 
 
