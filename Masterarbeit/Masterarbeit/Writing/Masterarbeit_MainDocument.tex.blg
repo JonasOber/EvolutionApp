@@ -1,5 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Masterarbeit_MainDocument.tex.blg'
-[48] biber:340> INFO - === Sa Nov 13, 2021, 14:21:52
-[59] Utils.pm:411> ERROR - Cannot find 'Masterarbeit_MainDocument.tex.bcf'!
-[59] Biber.pm:132> INFO - ERRORS: 1

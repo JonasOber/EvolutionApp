@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="PSC_bands_lines_contact.svg.2021_12_08_14_37_16.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1942823"
+     inkscape:cx="449.22377"
+     inkscape:cy="193.84027"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7066"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7062"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6639"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6442"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5406"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4956"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3705"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2958"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2445"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1301"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1184"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible;"
+       id="marker1740"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1456" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1696"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path1453" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path964" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path961" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.278786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1696)"
+       d="m 7.339338,6.4381187 c 0,97.0054613 0,97.0054613 0,97.0054613"
+       id="path1353" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.298px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1740)"
+       d="m 5,6.4246851 c 131.42478,0 131.42478,0 131.42478,0"
+       id="path1737" />
+    <g
+       id="g11575"
+       transform="translate(3.6287171,14.621441)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="39.783394"
+         y="29.548075"
+         id="text53815"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan53813"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="39.783394"
+           y="29.548075">-2,3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="38.452209"
+         y="63.263245"
+         id="text54929"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan54927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="38.452209"
+           y="63.263245">-5,15</tspan></text>
+      <g
+         id="g12101-6"
+         transform="matrix(1,0,0,0.94712569,30,-17.164183)">
+        <path
+           style="opacity:0.222368;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1252-3-4" />
+      </g>
+      <g
+         id="g1080"
+         transform="matrix(1,0,0,0.94712569,30,11.335818)">
+        <path
+           style="opacity:0.182323;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1078" />
+      </g>
+      <g
+         id="g1348"
+         transform="matrix(1,0,0,0.94712569,30,-2.9141826)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1346" />
+      </g>
+      <g
+         id="g2820"
+         transform="matrix(1,0,0,0.94712569,30,-39.254159)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2818" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.616674"
+       y="19.424627"
+       id="text5813"><tspan
+         sodipodi:role="line"
+         id="tspan5811"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="19.616674"
+         y="19.424627">Vacuum</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.628718,61.482107 -3e-6,3.500247"
+       id="path11796" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.628715,36.482353 3e-6,24.999754"
+       id="path11798" />
+    <path
+       style="opacity:0.189181;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.628717,64.982354 v 2.5"
+       id="path11802" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.628717,36.482353 V 52.482352"
+       id="path1210" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-97.066879"
+       y="49.432117"
+       id="text2894"
+       transform="matrix(0.00311067,-1.0316943,0.96926939,0.00331101,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+         x="-97.066879"
+         y="49.432117">HTL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-99.839096"
+       y="61.172173"
+       id="text5069"
+       transform="matrix(-0.03421575,-1.0310564,0.96867046,-0.03641939,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+         x="-99.839096"
+         y="61.172173">Pero</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-97.109474"
+       y="80.082947"
+       id="text7268"
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan7266"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+         x="-97.109474"
+         y="80.082947">C60</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-97.264503"
+       y="95.558441"
+       id="text9318"
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan9316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+         x="-97.264503"
+         y="95.558441">BCP</tspan></text>
+    <g
+       id="g11561"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="24.283098"
+         y="59.746876"
+         id="text45053"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan45051"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="24.283098"
+           y="59.746876">-4,8</tspan></text>
+      <g
+         id="g2824"
+         transform="matrix(1,0,0,0.94712568,15,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2822" />
+      </g>
+      <g
+         id="g12075"
+         transform="matrix(1,0,0,0.94613882,-0.66132251,44.27836)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 20.661323,13.790947 h 15"
+           id="path1252" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.257359"
+       x="-102.27084"
+       y="31.819788"
+       id="text9630"
+       transform="matrix(0,-0.97269669,1.0280697,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan9628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.257359"
+         x="-102.27084"
+         y="31.819788">ITO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-95.573654"
+       y="18.153076"
+       id="text10140"
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan10138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="-95.573654"
+         y="18.153076">Au</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="-95.573654"
+       y="110.15347"
+       id="text10140-6"
+       transform="matrix(0,-1.0316995,0.96927448,0,0,0)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan10138-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="-95.573654"
+         y="110.15347">Au</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="11.493275"
+       y="11.4933"
+       id="text13205"
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="11.493275"
+         y="11.4933">Energie (eV)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="118.23203"
+       y="11.844226"
+       id="text14121"
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan14119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="118.23203"
+         y="11.844226">Position (m)</tspan></text>
+    <g
+       id="g11597"
+       transform="translate(3.6287171,5.3705825)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1164"
+         transform="matrix(1,0,0,0.94712568,45,13.835818)">
+        <path
+           style="opacity:0.244534;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1162" />
+      </g>
+      <g
+         id="g1168"
+         transform="matrix(1,0,0,0.94712568,45,-1.1641826)">
+        <path
+           style="opacity:0.20961;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1166" />
+      </g>
+      <g
+         id="g1658"
+         transform="matrix(1,0,0,0.94712568,45,6.3358178)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1656" />
+      </g>
+      <g
+         id="g2832"
+         transform="matrix(1,0,0,0.94712568,45,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2830" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.238216"
+         y="45.903599"
+         id="text58147"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan58145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.238216"
+           y="45.903599">-3,9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.208244"
+         y="67.969757"
+         id="text59471"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan59469"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.208244"
+           y="67.969757">-5,4</tspan></text>
+    </g>
+    <g
+       id="g11619"
+       transform="translate(3.6287171,1.3749939)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1172"
+         transform="matrix(1,0,0,0.94712568,59.999999,1.8358178)">
+        <path
+           style="opacity:0.221014;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1170" />
+      </g>
+      <g
+         id="g1256"
+         transform="matrix(1,0,0,0.94712568,59.999999,18.835818)">
+        <path
+           style="opacity:0.274076;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1254" />
+      </g>
+      <g
+         id="g1662"
+         transform="matrix(1,0,0,0.94712568,59.999999,10.335818)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1660" />
+      </g>
+      <g
+         id="g2836"
+         transform="matrix(1,0,0,0.94712568,59.999999,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2834" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="70.776756"
+         y="47.77821"
+         id="text61191"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan61189"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="70.776756"
+           y="47.77821">-4,2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="70.713707"
+         y="71.122421"
+         id="text62491"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan62489"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="70.713707"
+           y="71.122421">-5,9</tspan></text>
+    </g>
+    <g
+       id="g11641"
+       transform="translate(3.6287171,-0.62233954)"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1260"
+         transform="matrix(1,0,0,0.94712568,75.000001,29.835816)">
+        <path
+           style="opacity:0.263924;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1258" />
+      </g>
+      <g
+         id="g1344"
+         transform="matrix(1,0,0,0.94712568,75.000001,-5.164183)">
+        <path
+           style="opacity:0.202845;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1342" />
+      </g>
+      <g
+         id="g1666"
+         transform="matrix(1,0,0,0.94712568,75.000001,12.335818)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1664" />
+      </g>
+      <g
+         id="g2840"
+         transform="matrix(1,0,0,0.94712568,75.000001,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2838" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="86.225372"
+         y="41.981354"
+         id="text64595"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan64593"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="86.225372"
+           y="41.981354">-3,5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="86.180931"
+         y="81.964645"
+         id="text65577"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan65575"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="86.180931"
+           y="81.964645">-7,0</tspan></text>
+    </g>
+    <g
+       id="g11549"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
+      <g
+         id="g12101"
+         transform="matrix(1,0,0,0.94712568,0,12.835818)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1252-3" />
+      </g>
+      <g
+         id="g2828"
+         transform="matrix(1,0,0,0.94712568,0,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2826" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="8.8324089"
+         y="65.63501"
+         id="text68817"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan68815"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="8.8324089"
+           y="65.63501">-5,3</tspan></text>
+    </g>
+    <g
+       id="g11653"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(3.6287171,4.1555956)">
+      <g
+         id="g12101-7"
+         transform="matrix(0.88981793,0,0,0.94712568,81.963956,18.561616)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 14.650237,46.208378 h 15"
+           id="path1252-3-2" />
+      </g>
+      <g
+         id="g2844"
+         transform="matrix(1,0,0,0.94712568,90,-39.25416)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2842" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="100.8328"
+         y="66.031372"
+         id="text68817-6"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan68815-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="100.8328"
+           y="66.031372">-5,3</tspan></text>
+    </g>
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.628716,52.482352 v 3"
+       id="path1005"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.628716,67.482354 v 4.999998"
+       id="path1007"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.628715,55.482352 2e-6,-6.999999"
+       id="path1009"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.628715,72.482352 2e-6,10.999999"
+       id="path1011"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 98.628716,66.482353 V 83.482351"
+       id="path1013"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:0.285572;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.628716,48.482353 v 18"
+       id="path1015"
+       inkscape:export-filename="C:\Users\bomml\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\path1015.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

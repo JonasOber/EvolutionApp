@@ -1,0 +1,85 @@
+Wochenmeeting vom 08.12.2021
+
+Thema: PL und IV Dunkelkennlinien von Defektsolarzellen
+
+S. 3:
+* Was ist der Punktdefekt?
+* Wieso ein heller Kreis um den Defekt? ErhÃ¶hte strahlende Rekombination oder Reflexion?
+
+S. 4:
+* Filter und Filter mit Extender sollten vergleichbar sein.
+
+S. 5:
+* Besser als Mittelwert ist ein Fit in das PL Signal
+* Kamerabasierte PL am Ende vermutlich spannender
+* Linescans im Hinterkopf behalten
+
+S. 6:
+* Energie auf sinnvolle Anzahl an Nachkommastellen begrenzen:
+* In Peakposition kein Einfluss erkennbar
+* Intensität bei Defekt geringer
+* Absorption in dem Perowskit sollte nicht gestört sein, daher sind
+  nichtstrahlende Rekombination oder Quenching mögliche Gründe einer
+geringeren PL Intensität. Da kein ETL vorhanden ist, wird Quenching
+ausgeschlossen und nichtstrahlende Rekombination vermutet.
+
+S. 7:
+* Energie auf Stellen. Eine Stelle mehr als vermutlich wichtig.
+[ ] Energie auf 2 Stellen und Theoriewert für MAPbI3 einbauen
+[ ] HTL (Defekt) und Pero in den Bildern kennzeichnen
+* Wie sehen die Übergangsbereiche aus?
+* Pero-ITO Kontakt mit weniger Störstellen als Gold-Pero, daher PL Intensität
+  nicht so stark verringert? 
+[ ] Literatur zu Grenzflächen recherchieren: Gold-Pero, ITO-Pero
+[ ] Später sonst Leute aus Potsdam
+
+S. 8:
+* Wie ist der Abstragungsprozess beim Laser? Kraterbildung sorgt für
+  unsauberen Rand?
+* Die ablatierte ITO-Fläche ist mit dem Auge erkennbar und weist eine höhere
+  Rauhigkeit auf. Da der Laserstrahl für die Anregung und das emittierte PL
+Licht den Defekt bei der Messung passieren müssen, kann dies der Grund für
+eine verringertes PL Signal sein.
+* Derselbe Effekt sollte auch in der EL auftreten (nur halb so stark).
+
+S. 9:
+* Absorptionswellenlänge in Perowskit für die verwendete Perowskitdicke
+  bestimmt welche Dicken in der PL überhaupt entscheident sind. 
+[ ] Absorptionslänge bei Marvin erfragen und Generationsprofil simulieren.
+* Energien
+* HTL/ETL Fläche als Messpunkt ist nicht schlecht
+
+S. 10:
+* Linescan über Kante könnte noch Aufklärung liefern
+
+S. 14:
+* Verlauf weicht bei kleinen Spannungen ab, bei kleinen Spannungen dominieren
+  Shunts den Stromverlauf. 
+[ ] Wo können bei der ITO Defektbildung shunts entstehen?
+
+S. 16:
+* ETL auch bei EL Defekt widersprüchlich? 
+* In der Dark-IV Messung weicht eine Defekte Zelle von dem Referenzverlauf ab,
+  die andere jedoch nicht.
+[ ] Liegt die Abweichung daher wirklich am ETL Defekt?
+
+S. 17:
+* Sprünge in der Dunkelkennlinie?
+* Max zu Ionendiffusion und IV Messungen fragen
+[ ] Freitag PiP 10:30!
+
+--------------------
+AUSBLICK:
+* Proben von Verena
+* Proben von Felix
+
+--------------------
+FRAGEN:
+* Wieviele Proben werden im Januar hergestellt?
+* Wann können elektrische Felder im Halbleiter vernachlässigt werden?
+* Wie ist die Randbedingung bei Ground potential? In Kombination mit
+  Metall-Halbleiterkontakten?
+--------------------
+TODO:
+[ ] Übersichten für die einzelnen Defekte erstellen und damit EL erklären
+
