@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Gold-Perowskit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#fffcff"
+     bordercolor="#000009"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0.97647059"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8444851"
+     inkscape:cx="250.44847"
+     inkscape:cy="377.15289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-30080"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6363"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6278"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6192"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2905"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2901"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2658"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1050" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1047" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1053" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1740"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1456" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1696"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path1453" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path964" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path961" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.232408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1696)"
+       d="m 9.0009008,6.5280836 c 0,67.4149564 0,67.4149564 0,67.4149564"
+       id="path1353"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1740)"
+       d="m 5,13.828334 c 103.60194,0 103.60194,0 103.60194,0"
+       id="path1737"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="11.699084"
+       y="9.2753954"
+       id="text13205"
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan13203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="11.699084"
+         y="9.2753954">Energie (eV)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+       x="74.354355"
+       y="9.4428911"
+       id="text14121"
+       transform="scale(0.96927448,1.0316995)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan14119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82946px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="74.354355"
+         y="9.4428911">Position (m)</tspan></text>
+    <g
+       id="g2581"
+       transform="translate(-14.70972,-16.255192)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1164"
+         transform="matrix(1,0,0,0.94712568,45,4.7458413)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1162" />
+      </g>
+      <g
+         id="g1168"
+         transform="matrix(1,0,0,0.94712568,45,-10.254159)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1166" />
+      </g>
+      <g
+         id="g1658"
+         transform="matrix(1,0,0,0.94712568,45,-2.7541585)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1656" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="-86.876343"
+         y="57.883965"
+         id="text5069"
+         transform="matrix(-0.03421575,-1.0310564,0.96867046,-0.03641939,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan5067"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+           x="-86.876343"
+           y="57.883965">Pero</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.238216"
+         y="37.092918"
+         id="text58147"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan58145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.238216"
+           y="37.092918">-3,9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.208244"
+         y="59.159073"
+         id="text59471"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan59469"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.208244"
+           y="59.159073">-5,4</tspan></text>
+    </g>
+    <g
+       id="g2561"
+       transform="translate(15.29028,-16.254968)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g12101"
+         transform="matrix(1,0,0,0.94712568,0,3.7458415)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path1252-3" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="-82.735054"
+         y="14.40933"
+         id="text10140"
+         transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan10138"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="-82.735054"
+           y="14.40933">Au</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="8.8324089"
+         y="56.824326"
+         id="text68817"
+         transform="scale(0.96927447,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan68815"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="8.8324089"
+           y="56.824326">-5,3</tspan></text>
+    </g>
+    <g
+       id="g2607"
+       transform="translate(29.740296,-9.7083373)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2585"
+         transform="matrix(1,0,0,0.94712568,45,4.7458413)">
+        <path
+           style="opacity:0.302326;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2583" />
+      </g>
+      <g
+         id="g2589"
+         transform="matrix(1,0,0,0.94712568,45,-10.254159)">
+        <path
+           style="opacity:0.302326;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2587" />
+      </g>
+      <g
+         id="g2593"
+         transform="matrix(1,0,0,0.94712568,45,-2.7541585)"
+         style="stroke:#b60000;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#b60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2591" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="-80.371071"
+         y="58.113743"
+         id="text2597"
+         transform="matrix(-0.03421575,-1.0310564,0.96867046,-0.03641939,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan2595"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0c0000;fill-opacity:1;stroke-width:0.242894"
+           x="-80.371071"
+           y="58.113743">Pero</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.238216"
+         y="37.092918"
+         id="text2601"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan2599"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.238216"
+           y="37.092918">-3,9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="55.208244"
+         y="59.159073"
+         id="text2605"
+         transform="scale(0.96927448,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan2603"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="55.208244"
+           y="59.159073">-5,4</tspan></text>
+    </g>
+    <g
+       id="g2621"
+       transform="translate(59.740308,-16.254968)"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2611"
+         transform="matrix(1,0,0,0.94712568,0,3.7458415)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 5,52.253825 H 20"
+           id="path2609" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242894"
+         x="-82.735054"
+         y="14.40933"
+         id="text2615"
+         transform="matrix(0,-1.0316995,0.96927448,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan2613"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="-82.735054"
+           y="14.40933">Au</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+         x="8.8324089"
+         y="56.824326"
+         id="text2619"
+         transform="scale(0.96927447,1.0316995)"><tspan
+           sodipodi:role="line"
+           id="tspan2617"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.242894"
+           x="8.8324089"
+           y="56.824326">-5,3</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.740296,22.981589 c 0,5.000265 0,10.000266 0,14.999999"
+       id="path2656"
+       inkscape:path-effect="#path-effect2658"
+       inkscape:original-d="m 79.740296,22.981589 c 2.64e-4,5.000265 2.64e-4,10.000266 0,14.999999"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.740296,22.981589 c 0,2.182548 0,4.364834 2.500181,5.455844 2.500182,1.091011 7.500082,1.091011 12.499818,1.091011"
+       id="path2899"
+       inkscape:path-effect="#path-effect2901"
+       inkscape:original-d="m 79.740296,22.981589 c 2.64e-4,2.182548 2.64e-4,4.364834 0,6.546855 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.740296,37.981588 c 0,2.18255 0,4.364834 2.500181,5.455844 2.500182,1.091011 7.500082,1.091011 12.499818,1.091011"
+       id="path2903"
+       inkscape:path-effect="#path-effect2905"
+       inkscape:original-d="m 79.740296,37.981588 c 2.64e-4,2.18255 2.64e-4,4.364834 0,6.546855 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="22.127449"
+       y="80.189095"
+       id="text4133"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4131"
+         style="stroke-width:0.264583"
+         x="22.127449"
+         y="80.189095">Nicht im Kontakt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="78.842133"
+       y="80.189095"
+       id="text5811"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan5809"
+         style="stroke-width:0.264583"
+         x="78.842133"
+         y="80.189095">Kontakt</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25747px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.29028,15.536267 c 10.00025,0 20.00025,0 30,0"
+       id="path6190"
+       inkscape:path-effect="#path-effect6192"
+       inkscape:original-d="m 20.29028,15.536267 c 10.00025,2.64e-4 20.00025,2.64e-4 30,0"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.175886px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.29028,15.536267 c 4.666784,0 9.33345,0 14,0"
+       id="path6274"
+       inkscape:path-effect="#path-effect6278"
+       inkscape:original-d="m 65.29028,15.536267 c 4.666784,2.64e-4 9.33345,2.64e-4 14,0"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.740296,15.494924 c 0,2.182548 0,4.364834 2.500181,5.455844 2.500182,1.091011 7.500082,1.091011 12.499818,1.091011"
+       id="path6359"
+       inkscape:path-effect="#path-effect6363"
+       inkscape:original-d="m 79.740296,15.494924 c 2.64e-4,2.182548 2.64e-4,4.364834 0,6.546855 5.000363,2.65e-4 10.000263,2.65e-4 14.999999,0"
+       inkscape:export-filename="C:\Users\j.oberroehrmann\Documents\GitHub\Master-s-Thesis\Masterarbeit\Masterarbeit\Writing\Images\Theory\Gold_Pero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

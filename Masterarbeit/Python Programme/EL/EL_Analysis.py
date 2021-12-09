@@ -7,7 +7,7 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 # import scipy.ndimage
 import tkinter as tk
 from tkinter import filedialog
-
+import matplotlib.colors as colors
 plt.rcParams['font.family'] = "Arial"
 plt.rcParams['font.size'] = 14
 # from scipy.ndimage.measurements import label
@@ -69,9 +69,10 @@ class Linescan():
 
 class EL_Image():
     def __init__(self, path):
-        # self.file_path = path
+        self.file_path = path
         self.EL_mat = self.read_file(path)
         self.filename = path.split('/')[-1]
+        self.savefile_path = "/".join(self.file_path.split('/')[:-1])
 
     def read_file(self, path):
         """
@@ -134,28 +135,77 @@ class EL_Image():
         :param other:
         :return:
         """
-        fig = plt.figure()
-        ax = fig.add_subplot(111)
+
+        # -- Prepare the figure
+        fig = plt.figure(figsize=(3 * 11 / 2.54, 11 / 2.54))
+        EL_ticks = np.arange(0, 180, 40)
+        # axes for camera picture
+        ax0 = fig.add_subplot(131)
+        ax0.axis('equal')
+
+
+        # imshow the matrix
+        im = ax0.imshow(self.mat, cmap='gray', origin='upper', vmin=0, vmax=4095)
+        # plot the linescan on imshow
+
+        # ax.set_title(self.filename)
+        ax0.set_xlabel("x (pixel)")
+        ax0.set_ylabel("y (pixel)")
+        #ax0.set_aspect(1.0 / ax0.get_data_ratio(), adjustable='box')
+        # set y ticks
+        ax0.set_yticks(EL_ticks)
+        ax0.set_xticks(EL_ticks)
+        # add the colorbar
+        divider = make_axes_locatable(ax0)
+        cax = divider.append_axes('right', size='5%', pad=0.05)
+        fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
+
+        ax = fig.add_subplot(132)
+        #ax.axis('equal')
         divider = make_axes_locatable(ax)
         cax = divider.append_axes('right', size='5%', pad=0.05)
-        im = ax.imshow(self.mat, cmap='gray', origin='upper', vmin=0, vmax=4095)
 
-        im = ax.imshow(other.mat, cmap='jet', alpha=0.5, origin='upper', vmin=0, vmax=4095)
-        # cmap jet
-        # add the mark for the cell
-        # Rectangle(xy, width, height, angle=0.0, **kwargs)
-        # rect = patches.Rectangle((3, 6), 40, 53, linewidth=2, edgecolor='grey', facecolor='none')
-        # Add the patch to the Axes
-        # ax.add_patch(rect)
-        ax.set_title(other.filename)
+        # imshow the matrix
+        im = ax.imshow(other.mat, cmap='jet', origin='upper', norm=colors.LogNorm(vmin=1, vmax=4095))
+        # plot the linescan on imshow
+        fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
+        # ax.set_title(self.filename)
         ax.set_xlabel("x (pixel)")
         ax.set_ylabel("y (pixel)")
-        # plt.xlim(500, 750)
-        # plt.ylim(500, 650)
-        # plt.savefig(file_path.strip('.b32')+'.png')
-        fig.colorbar(im, cax=cax, orientation='vertical')
-        plt.savefig(f'Pictures/Overlay.svg', transparent=True)
-        plt.show()
+        ax.set_aspect(1.0 / ax.get_data_ratio(), adjustable='box')
+        # set y ticks
+        #EL_ticks = np.arange(0, 160, 40)
+        ax.set_yticks(EL_ticks)
+        ax.set_xticks(EL_ticks)
+        # add the colorbar
+
+        # add axes for the linescan: intensity(position) plot
+        ax2 = fig.add_subplot(133)
+        # plot the linescan intensity values along it's path
+        im = ax2.imshow(self.mat, cmap='gray', origin='upper', vmin=0, vmax=4095)
+
+        im = ax2.imshow(other.mat, cmap='jet', alpha=0.5, origin='upper', norm=colors.LogNorm(vmin=1, vmax=4095))
+        # ax2.set_ylim(0, 3000)
+        # square plot
+        ax2.set_yticks(EL_ticks)
+        ax2.set_xticks(EL_ticks)
+        ax2.set_aspect(1.0 / ax2.get_data_ratio(), adjustable='box')
+
+        # label
+        ax2.set_ylabel("Koordinate y (Pixel)")
+        ax2.set_xlabel("Koordinate x (Pixel)")
+        # ticks on both sides of plot
+        ax2.yaxis.set_ticks_position('both')
+        ax2.xaxis.set_ticks_position('both')
+
+        fig.suptitle(self.filename)
+        plt.tight_layout()
+        # save the figure
+
+        #plt.savefig(f'Pictures/Overlay.svg', transparent=True)
+
+        plt.savefig(self.savefile_path+"/Overlay.svg")
+        #plt.show()
 
     def EL_Linescan(self, other, x0, x1, y0, y1, colormap='jet'):
         """
@@ -166,7 +216,7 @@ class EL_Image():
 
         line01 = Linescan(coords, self.mat, 1)
         line02 = Linescan(coords, other.mat, 2)
-
+        EL_ticks = np.arange(0, 160, 40)
         # -- Prepare the figure
         fig = plt.figure(figsize=(3 * 11 / 2.54, 11 / 2.54))
 
@@ -193,6 +243,7 @@ class EL_Image():
         ax.axis('equal')
         divider = make_axes_locatable(ax)
         cax = divider.append_axes('right', size='5%', pad=0.05)
+        fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
         # imshow the matrix
         im = ax.imshow(self.mat, cmap=colormap, origin='upper', vmin=0, vmax=4095)
         # plot the linescan on imshow
@@ -206,7 +257,7 @@ class EL_Image():
         ax.set_yticks(EL_ticks)
         ax.set_xticks(EL_ticks)
         # add the colorbar
-        fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
+
         # add axes for the linescan: intensity(position) plot
         ax2 = fig.add_subplot(133)
         # plot the linescan intensity values along it's path
@@ -217,7 +268,7 @@ class EL_Image():
         ax2.set_aspect(1.0 / ax2.get_data_ratio(), adjustable='box')
         # label
         ax2.set_ylabel("Intensität (counts)")
-        ax2.set_xlabel("Koordinate y (Pixel)")
+        ax2.set_xlabel("Koordinate x (Pixel)")
         # ticks on both sides of plot
         ax2.yaxis.set_ticks_position('both')
         ax2.xaxis.set_ticks_position('both')
@@ -225,6 +276,6 @@ class EL_Image():
         ax2.legend()
         plt.tight_layout()
         # save the figure
-        plt.savefig("Pictures/Linescan.svg", transparent='true')
+        plt.savefig(self.savefile_path+"/Linescan.svg")
         plt.show()
 
