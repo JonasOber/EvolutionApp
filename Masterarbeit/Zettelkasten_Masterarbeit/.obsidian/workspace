@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature Notes/2019 Reactions at noble metal contacts with methylammonium lead triiodide perovskites.md",
+            "file": "Literature Notes/2016 Minimal Effect of the Hole-Transport Material Ionization Potential on the Open-Circuit Voltage.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 729
   },
   "right": {
     "id": "bddc8c0df701338a",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/2019 Reactions at noble metal contacts with methylammonium lead triiodide perovskites.md",
+                "file": "Literature Notes/2016 Minimal Effect of the Hole-Transport Material Ionization Potential on the Open-Circuit Voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f69a48b7265960f0",
   "lastOpenFiles": [
-    "Literature Notes/2019 Reactions at noble metal contacts with methylammonium lead triiodide perovskites.md",
-    "Fleeting Notes/Gold-Perovskite interface.md",
-    "Fleeting Notes/Gold_Pero.png",
-    "Fleeting Notes/Ohmic and schottky.png",
-    "Fleeting Notes/Pasted image 20211209143656.png",
-    "Fleeting Notes/Ohmic_Schottky_Contact.png",
-    "Permanent Notes/Untitled.md",
+    "Literature Notes/2016 Minimal Effect of the Hole-Transport Material Ionization Potential on the Open-Circuit Voltage.md",
+    "Literature Notes/2019 Design of BCP buffer layer for inverted PSC.md",
     "Literature Notes/Basis and effects of ion migration on photovoltaic performance of perovskite solar cells           Basis.md",
-    "Permanent Notes/Perovskite Solar Cells.md",
-    "Literature Notes/Design of BCP buffer layer for inverted PSC.md"
+    "Literature Notes/Spiro-Linked Molecular Hole-Transport Materials for Highly Efficient Inverted Perovskite Solar Cells.md",
+    "Fleeting Notes/HTL-ETL Kontakt.md",
+    "Fleeting Notes/Gold_Pero.png",
+    "Fleeting Notes/G1963_Camera.png",
+    "Fleeting Notes/ITO Defekt.md",
+    "Fleeting Notes/G1965_IV.png",
+    "Fleeting Notes/G1965_IV.svg"
   ]
 }

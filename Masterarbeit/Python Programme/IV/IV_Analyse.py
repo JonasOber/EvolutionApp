@@ -56,7 +56,7 @@ List_Substrates = [
     "G1974"
 ]
 
-for substrate in ["G1963", "G1974"]:
+for substrate in ["G1965"]:
     IV_directory = "C:/Users/j.oberroehrmann/Documents/Messdaten/Loana_Lukas/P3T_063/"+substrate
     # create the figure
     width = 14/2.54
@@ -92,15 +92,17 @@ for substrate in ["G1963", "G1974"]:
     Mode = IV_directory.split('/')[-1]
     dict_mode = {"Hell":'lgt', "Dunkel":'drk'}
     for path in glob.iglob(IV_directory+"/Dunkel"+"/*.drk"):#+dict_mode[Mode]):
-        print(path)
+        
         IV_plt = IV_Analyse(path)
+        print(path, "Label:", IV_plt.return_label())
         volt, curr = IV_plt.show_IV()
         ax.plot(volt, curr, linestyle='None', marker='.', markersize=5, label="Zelle "+IV_plt.return_label())
         ax_inset.plot(volt, curr, linestyle='None', marker='.', markersize=5, label="Zelle "+IV_plt.return_label())
     for path in glob.iglob(IV_directory+"/Hell"+"/*.lgt"):#+dict_mode[Mode]):
-        print(path)
+
         IV_plt = IV_Analyse(path)
         volt, curr = IV_plt.show_IV()
+        print(path, "Label:", IV_plt.return_label())
         ax2_inset.plot(volt, curr, linestyle='None', marker='.', markersize=5, label="Zelle " + IV_plt.return_label())
         ax2.plot(volt, curr, linestyle='None', marker='.', markersize=5, label="Zelle "+IV_plt.return_label())
 
@@ -115,7 +117,7 @@ for substrate in ["G1963", "G1974"]:
     #ax_inset.set_ylim(-0.01,0.01)
     #ax_inset.set_yscale('log')
 
-
+    ax.legend()
     ax2.legend(loc="lower right")
     plt.tight_layout()
     plt.savefig(IV_directory+"/"+Substrate_name+".svg", transparent='true')
