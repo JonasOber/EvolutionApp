@@ -1,15 +1,15 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Masterarbeit_MainDocument.blg'
-[119] biber-MSWIN64:340> INFO - === 
-[165] Biber.pm:415> INFO - Reading 'Masterarbeit_MainDocument.bcf'
-[293] Biber.pm:952> INFO - Found 3 citekeys in bib section 0
-[308] Biber.pm:4340> INFO - Processing section 0
-[321] Biber.pm:4531> INFO - Looking for bibtex format file '../Literatur/Literatuverzeichnis.bib' for section 0
-[399] bibtex.pm:1689> INFO - LaTeX decoding ...
-[428] bibtex.pm:1494> INFO - Found BibTeX data source '../Literatur/Literatuverzeichnis.bib'
-[472] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[472] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[472] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[472] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[480] bbl.pm:654> INFO - Writing 'Masterarbeit_MainDocument.bbl' with encoding 'UTF-8'
-[481] bbl.pm:757> INFO - Output to Masterarbeit_MainDocument.bbl
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Masterarbeit_MainDocument.blg'
+[45] biber-darwin:315> INFO - === Sun Dec 12, 2021, 11:08:45
+[255] Biber.pm:371> INFO - Reading 'Masterarbeit_MainDocument.bcf'
+[363] Biber.pm:889> INFO - Found 3 citekeys in bib section 0
+[381] Biber.pm:4093> INFO - Processing section 0
+[398] Biber.pm:4254> INFO - Looking for bibtex format file '../Literatur/Literatuverzeichnis.bib' for section 0
+[402] bibtex.pm:1523> INFO - LaTeX decoding ...
+[435] bibtex.pm:1340> INFO - Found BibTeX data source '../Literatur/Literatuverzeichnis.bib'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[454] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[455] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[465] bbl.pm:636> INFO - Writing 'Masterarbeit_MainDocument.bbl' with encoding 'UTF-8'
+[467] bbl.pm:739> INFO - Output to Masterarbeit_MainDocument.bbl
