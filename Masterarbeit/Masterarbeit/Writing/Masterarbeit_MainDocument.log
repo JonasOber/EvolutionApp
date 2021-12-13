@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2021.12.9)  9 DEC 2021 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2021.12.9)  13 DEC 2021 15:38
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **./Masterarbeit_MainDocument.tex
 (Masterarbeit_MainDocument.tex
@@ -1132,11 +1132,11 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 dlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 103.
-Package hyperref Info: Option `breaklinks' set `true' on input line 103.
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 103.
-Package hyperref Info: Option `plainpages' set `false' on input line 103.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 103.
+Package hyperref Info: Option `colorlinks' set `true' on input line 102.
+Package hyperref Info: Option `breaklinks' set `true' on input line 102.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 102.
+Package hyperref Info: Option `plainpages' set `false' on input line 102.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 102.
 
 (C:\Users\j.oberroehrmann\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig
 .sty
@@ -1191,8 +1191,20 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 (C:\Users\j.oberroehrmann\AppData\Local\Programs\MiKTeX\tex/latex/tools\shelles
 c.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 77.
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
+(C:\Users\j.oberroehrmann\AppData\Local\Programs\MiKTeX\tex/latex/ifplatform\if
+platform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(C:\Users\j.oberroehrmann\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\c
+atchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+(C:\Users\j.oberroehrmann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iflua
+tex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
 \c@svg@param@lastpage=\count341
 \svg@box=\box78
 \c@svg@param@currpage=\count342
@@ -1890,23 +1902,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 22.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 22.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 22.
-[2
+) [2
 
 
 
 
-] [3]) [4]
+]
 \openout2 = `Content/Perovskites.aux'.
 
  (Content/Perovskites.tex
 chapter 3.
-) [5
+) [3
 
 
 
@@ -1919,105 +1925,111 @@ chapter 4.
 Package svg Info: Last page of `./svg-inkscape/ExperimentalSetupSketch_svg-tex.
 pdf' is 8 on input line 11.
 (svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf_tex
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=115, page=1, 401.58391p
-t x 248.38454pt>
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=84, page=1, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age1 used on input line 56.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=116, page=2, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=85, page=2, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age2 used on input line 59.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=117, page=3, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=86, page=3, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 3>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age3 used on input line 63.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=118, page=4, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=87, page=4, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 4>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age4 used on input line 66.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=119, page=5, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=88, page=5, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 5>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age5 used on input line 68.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=120, page=6, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=89, page=6, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 6>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age6 used on input line 70.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=121, page=7, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=90, page=7, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 7>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age7 used on input line 72.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
-<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=122, page=8, 401.58391p
-t x 248.38454pt>
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
+<./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, id=91, page=8, 401.79593pt
+ x 231.3119pt>
 File: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf Graphic file (type pdf
 )
 <use ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf, page 8>
 Package pdftex.def Info: ./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf , p
 age8 used on input line 74.
-(pdftex.def)             Requested size: 401.5839pt x 248.39528pt.
+(pdftex.def)             Requested size: 401.79593pt x 231.31837pt.
 )
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6
-
-
-
-
-]
 Package svg Info: Last page of `./svg-inkscape/Pero_Layout_side_svg-tex.pdf' is
  3 on input line 20.
- (svg-inkscape/Pero_Layout_side_svg-tex.pdf_tex
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=130, page=1, 388.18184pt x 184
-.9439pt>
+(svg-inkscape/Pero_Layout_side_svg-tex.pdf_tex
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=94, page=1, 390.40498pt x 184.
+9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page1 us
 ed on input line 56.
-(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=131, page=2, 388.18184pt x 184
-.9439pt>
+(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=95, page=2, 390.40498pt x 184.
+9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 2>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page2 us
 ed on input line 62.
-(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
-<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=132, page=3, 388.18184pt x 184
-.9439pt>
+(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
+<./svg-inkscape/Pero_Layout_side_svg-tex.pdf, id=96, page=3, 390.40498pt x 184.
+9439pt>
 File: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Pero_Layout_side_svg-tex.pdf, page 3>
 Package pdftex.def Info: ./svg-inkscape/Pero_Layout_side_svg-tex.pdf , page3 us
 ed on input line 64.
-(pdftex.def)             Requested size: 388.18184pt x 184.9547pt.
-) [7 <./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf> <./svg-inkscape/Exper
+(pdftex.def)             Requested size: 390.40498pt x 184.95752pt.
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 25.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 25.
+ [4
+
+
+
+
+] [5 <./svg-inkscape/ExperimentalSetupSketch_svg-tex.pdf> <./svg-inkscape/Exper
 imentalSetupSketch_svg-tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./svg-inkscape/ExperimentalSetupSketch_svg-t
@@ -2053,8 +2065,11 @@ ex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./svg-inkscape/ExperimentalSetupSketch_svg-t
 ex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
->] [8 <./svg-inkscape/Pero_Layout_side_svg-tex.pdf> <./svg-inkscape/Pero_Layout
-_side_svg-tex.pdf
+> <./svg-inkscape/Pero_Layout_side_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file ./svg-inkscape/Pero_Layout_side_svg-tex.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+> <./svg-inkscape/Pero_Layout_side_svg-tex.pdf
 
 pdfTeX warning: pdflatex.exe (file ./svg-inkscape/Pero_Layout_side_svg-tex.pdf)
 : PDF inclusion: multiple pdfs with page group included in a single page
@@ -2066,7 +2081,7 @@ pdfTeX warning: pdflatex.exe (file ./svg-inkscape/Pero_Layout_side_svg-tex.pdf)
 Package svg Info: Last page of `./svg-inkscape/PL_spectrum_MAPIcell_with_filter
 _PPT_svg-tex.pdf' is 1 on input line 40.
  (svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf_tex
-<./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, id=159, page=
+<./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf, id=124, page=
 1, 361.35pt x 361.35pt>
 File: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf Graphic f
 ile (type pdf)
@@ -2075,15 +2090,19 @@ Package pdftex.def Info: ./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_sv
 g-tex.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 361.34999pt x 361.35463pt.
 )
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
 
-LaTeX Warning: Reference `fig:pcosensicamqe' on page 9 undefined on input line 
+LaTeX Warning: Reference `fig:pcosensicamqe' on page 6 undefined on input line 
 52.
 
-<Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png, id=167, 803.0pt
+<Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png, id=132, 803.0pt
  x 349.305pt>
 File: Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png Graphic fil
 e (type png)
@@ -2091,8 +2110,8 @@ e (type png)
 Package pdftex.def Info: Images/ExperimentalSetup/ccd-sensor-interline-transfer
 -en.png  used on input line 55.
 (pdftex.def)             Requested size: 426.79141pt x 185.65843pt.
-[9 <./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf>] [10 <./Im
-ages/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>]
+[6] [7 <./svg-inkscape/PL_spectrum_MAPIcell_with_filter_PPT_svg-tex.pdf>]
+[8 <./Images/ExperimentalSetup/ccd-sensor-interline-transfer-en.png>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 9.
 
@@ -2108,12 +2127,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-) [11]
+) [9]
 \openout2 = `Content/Experimental.aux'.
 
  (Content/Experimental.tex
 chapter 5.
-) [12
+) [10
 
 
 
@@ -2135,7 +2154,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[13
+[11
 
 
 
@@ -2157,53 +2176,45 @@ Package logreq Info: Writing requests to 'Masterarbeit_MainDocument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44994 strings out of 478659
- 946715 string characters out of 2841180
- 1801323 words of memory out of 3000000
- 62088 multiletter control sequences out of 15000+600000
- 489109 words of font info for 161 fonts, out of 8000000 for 9000
+ 45072 strings out of 478659
+ 948951 string characters out of 2841180
+ 1801132 words of memory out of 3000000
+ 62175 multiletter control sequences out of 15000+600000
+ 488836 words of font info for 158 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  108i,21n,106p,10646b,2061s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-pdfTeX warning (dest): name{Hfootnote.42} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.41} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.39} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.38} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.35} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.34} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{Hfootnote.30} has been referenced but does not exis
-t, replaced by a fixed one
-
 
 pdfTeX warning (dest): name{Hfootnote.29} has been referenced but does not exis
 t, replaced by a fixed one
 
 
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+pdfTeX warning (dest): name{Hfootnote.28} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.26} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
 t, replaced by a fixed one
 
 {C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
 c.enc}{C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/l
-m/lm-ts1.enc}{C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/enc/
-dvips/lm/lm-mathsy.enc}{C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/
+m/lm-mathsy.enc}{C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/lm/lm-ts1.enc}{C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/
 fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/j.oberroehrmann/AppData/Local/Progra
 ms/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/j.oberroehrmann/AppData/Lo
 cal/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/j.oberroehrmann/AppD
@@ -2223,11 +2234,10 @@ sers/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx
 10.pfb><C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/lm/lmsy10.pfb><C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/lm/lmsy8.pfb><C:/Users/j.oberroehrmann/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/j.oberroehrmann/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Masterarbeit_MainDocument.pdf (15 pages, 579421 bytes).
+eX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Masterarbeit_MainDocument.pdf (13 pages, 557718 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
- 49908 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 340 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 49900 words of extra memory for PDF output out of 51595 (max. 10000000)
 

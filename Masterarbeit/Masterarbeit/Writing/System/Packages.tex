@@ -72,7 +72,6 @@ protrusion=true
 \captionsetup[table]{skip=15pt}
 %\newenvironment{mytabular}{\rowcolors{1}{\ifnumless{\rownum}{2}{headercolour}{white}}{}\tabular}{\endtabular}
 
-\AtBeginEnvironment{tabular}{\rowcolors{1}{\ifnumless{\rownum}{2}{headercolour}{white}}{}}
 %---Tikz package
 \usepackage{tikz}
 \hypersetup{
@@ -105,6 +104,8 @@ protrusion=true
 \usepackage{subfig}
 \usepackage{pdfpages}
 \usepackage{svg}
+%\AtBeginEnvironment{tabular}{\rowcolors{1}{\ifnumless{\rownum}{2}{headercolour}{white}}{}}
+
 \usepackage{pstricks}
 %\usepackage{auto-pst-pdf}
 

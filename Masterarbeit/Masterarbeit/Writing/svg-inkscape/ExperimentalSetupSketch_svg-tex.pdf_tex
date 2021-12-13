@@ -1,4 +1,4 @@
-%% Creator: Inkscape 1.1.1 (1:1.1+202109281949+c3084ef5ed), www.inkscape.org
+%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'ExperimentalSetupSketch_svg-tex.pdf' (pdf, eps, ps)
 %%
@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{400.08358196bp}%
+    \setlength{\unitlength}{400.29482801bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,27 +50,27 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.61851219)%
+  \begin{picture}(1,0.57569497)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.79600118,0.21413001){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}+\end{tabular}}}}%
-    \put(0.80761836,0.15509139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-\end{tabular}}}}%
+    \put(0.79610883,0.20956352){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}+\end{tabular}}}}%
+    \put(0.80771989,0.15055605){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.61293595,0.1865031){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}V\end{tabular}}}}%
-    \put(0.01056426,0.57400295){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Enclosure\end{tabular}}}}%
-    \put(0.39504475,0.31978352){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Filter\end{tabular}}}}%
+    \put(0.61314022,0.18195119){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}V\end{tabular}}}}%
+    \put(0.01108641,0.51303839){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Enclosure\end{tabular}}}}%
+    \put(0.395364,0.31309544){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Filter\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.39630425,0.4220462){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Camera\end{tabular}}}}%
-    \put(0.05984885,0.03987425){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Holder\end{tabular}}}}%
+    \put(0.39662284,0.41654366){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Camera\end{tabular}}}}%
+    \put(0.06034499,0.0333339){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Holder\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.82479309,0.52311863){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Computer\end{tabular}}}}%
+    \put(0.82488555,0.51838908){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Computer\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.86811481,0.21337675){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Power\\Supply\end{tabular}}}}%
+    \put(0.86818441,0.20798433){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Power\\Supply\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.7250814,0.32248449){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}V\end{tabular}}}}%
+    \put(0.72522648,0.31786082){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}V\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{ExperimentalSetupSketch_svg-tex.pdf}}%
-    \put(0.82862149,0.06304402){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vacuum\\Pump\end{tabular}}}}%
+    \put(0.82871193,0.05855727){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Vacuum\\Pump\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{ExperimentalSetupSketch_svg-tex.pdf}}%
   \end{picture}%
 \endgroup%

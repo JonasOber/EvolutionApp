@@ -6,6 +6,7 @@
 	3. The charge carrier concentration profile
 	4. Optical path of light out of the material
 2. Perovskite Solar Cells: Materials
+	We work with an n-i-p structure.
 	1. The Perovskite
 	2. HTL
 	3. ETL
@@ -15,4 +16,10 @@
 	1. Simulation of charge carriers?
 	2. Light path out of pero to HTL to ITO to Glass to air to camera
 4. Ion Diffusion
+5. Defects in the PSC
+	1. HTL-ETL
+	2. ITO/HTL/Pero/Au
+	3. ITO/Pero/ETL/Au
+	4. ITO Missing
+	5. 
 	

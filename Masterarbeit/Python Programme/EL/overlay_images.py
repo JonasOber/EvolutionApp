@@ -39,26 +39,28 @@ image_02 = filedialog.askopenfilename()
 #P1 = (486, 456)
 #P2 = (841, 801)
 # for image with extender: x0 : x0+150. y0:y0+150
-x0 = 520+40
-y0 = 250+140
-length = 180
+x0 = 740
+y0 = 250
+x0 = 273
+y0 = 48
+length = 600
 P1 = (x0, y0)
 P2 = (x0+length, y0+length)
 EL_Image_01 = EL.EL_Image(image_01)
 #EL_Image_01.show(show=True)
 EL_Image_01.crop_ELImage(Point1=P1, Point2=P2)
 #EL_Image_01.show(show=True)
-#EL_Image_01.show(colormap="gray", show=True)
+EL_Image_01.show(colormap="gray", show=True)
 # same for EL Image
 EL_Image_02 = EL.EL_Image(image_02)
 EL_Image_02.crop_ELImage(Point1=P1, Point2=P2)
-#EL_Image_02.show()
+EL_Image_02.show()
 
-EL.EL_Image.overlay_with_other(EL_Image_01, EL_Image_02)
-xl_0 = 80
-yl_0 = 50
-yl_1 = 180 - 30
-EL.EL_Image.EL_Linescan(EL_Image_02, EL_Image_01, xl_0, xl_0, yl_0, yl_1)
+#EL.EL_Image.overlay_with_other(EL_Image_01, EL_Image_02)
+#xl_0 = 80
+#yl_0 = 50
+#yl_1 = 180 - 30
+#EL.EL_Image.EL_Linescan(EL_Image_02, EL_Image_01, xl_0, xl_0, yl_0, yl_1)
 
 
 

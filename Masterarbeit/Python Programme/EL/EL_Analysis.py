@@ -118,7 +118,7 @@ class EL_Image():
         # rect = patches.Rectangle((3, 6), 40, 53, linewidth=2, edgecolor='grey', facecolor='none')
         # Add the patch to the Axes
         # ax.add_patch(rect)
-        ax.set_title(self.filename)
+        #ax.set_title(self.filename)
         ax.set_xlabel("x (pixel)")
         ax.set_ylabel("y (pixel)")
         # plt.xlim(500, 750)
@@ -165,8 +165,10 @@ class EL_Image():
         divider = make_axes_locatable(ax)
         cax = divider.append_axes('right', size='5%', pad=0.05)
 
+        # set maximum of EL scale
+        EL_max = 4095
         # imshow the matrix
-        im = ax.imshow(other.mat, cmap='jet', origin='upper', norm=colors.LogNorm(vmin=1, vmax=4095))
+        im = ax.imshow(other.mat, cmap='jet', origin='upper', norm=colors.LogNorm(vmin=1, vmax=EL_max))
         # plot the linescan on imshow
         fig.colorbar(im, cax=cax, orientation='vertical', label='Counts')
         # ax.set_title(self.filename)
@@ -183,8 +185,9 @@ class EL_Image():
         ax2 = fig.add_subplot(133)
         # plot the linescan intensity values along it's path
         im = ax2.imshow(self.mat, cmap='gray', origin='upper', vmin=0, vmax=4095)
-
-        im = ax2.imshow(other.mat, cmap='jet', alpha=0.5, origin='upper', norm=colors.LogNorm(vmin=1, vmax=4095))
+        # possible norms are LogNorm, NoNorm, Normalize, PowerNorm
+        # see https://matplotlib.org/stable/api/_as_gen/matplotlib.colors.Normalize.html#matplotlib.colors.Normalize
+        im = ax2.imshow(other.mat, cmap='jet', alpha=0.5, origin='upper', norm=colors.LogNorm(vmin=1, vmax=EL_max))
         # ax2.set_ylim(0, 3000)
         # square plot
         ax2.set_yticks(EL_ticks)
@@ -198,13 +201,14 @@ class EL_Image():
         ax2.yaxis.set_ticks_position('both')
         ax2.xaxis.set_ticks_position('both')
 
-        fig.suptitle(self.filename)
+        #fig.suptitle(self.filename)
+        fig.suptitle("G1845 Zelle 3")
         plt.tight_layout()
         # save the figure
 
         #plt.savefig(f'Pictures/Overlay.svg', transparent=True)
 
-        plt.savefig(self.savefile_path+"/Overlay.svg")
+        plt.savefig(self.savefile_path+"/Overlay.svg", transparent=True)
         #plt.show()
 
     def EL_Linescan(self, other, x0, x1, y0, y1, colormap='jet'):
