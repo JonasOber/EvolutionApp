@@ -1,0 +1,36 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Theory of Electroluminescence}{2}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Rau's relationship}{2}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}The Principle of detailed balance}{2}{section.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Perovskites and perovskite solar cells}{3}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Perovskite materials}{3}{section.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Perovskite Solar Cells}{3}{section.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Setup}{4}{chapter.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}General Setup}{4}{section.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Electrical Connection}{4}{section.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Luminescence detection}{6}{section.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Filters}{6}{subsection.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Optics}{6}{subsection.24}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Charge Coupled Detectors}{7}{subsection.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Noise and measurement errors}{9}{section.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Experimental part}{10}{chapter.34}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

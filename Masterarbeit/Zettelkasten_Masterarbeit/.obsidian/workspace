@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Gold-Perovskite/Gold-Perovskite interface ETL Defekt.md",
+            "file": "Fleeting Notes/Charge carrier profile in perovskite.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Gold-Perovskite/Gold-Perovskite interface ETL Defekt.md",
+                "file": "Fleeting Notes/Charge carrier profile in perovskite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "db32d446bc6ba23e",
   "lastOpenFiles": [
-    "Fleeting Notes/Gold-Perovskite/Gold-Perovskite interface ETL Defekt.md",
-    "Fleeting Notes/Gold-Perovskite/G1967_EL_ETL Defekt.png",
-    "Fleeting Notes/Gold-Perovskite/G1957_EL_ETL defekt.svg",
-    "Fleeting Notes/Gold-Perovskite/IV_ETL Defekt.png",
-    "Permanent Notes/Perovskite Solar Cells.md",
+    "Fleeting Notes/Charge carrier profile in perovskite.md",
+    "Fleeting Notes/Debye Length.md",
+    "Fleeting Notes/Intrinsic carrier concentration.md",
+    "Literature Notes/2019 Understanding the impact of C60 at theinterface of perovskite solar cells via drift-diffusion modeling.md",
+    "Literature Notes/2017 Effect of BCP on eliminating charge accumulation of inverted psc.md",
     "Permanent Notes/Electron Transport Material.md",
-    "Fleeting Notes/Gold-Perovskite/Ohmic and schottky.png",
-    "Fleeting Notes/Gold-Perovskite/Au_MAPbI3_Au.png",
-    "Fleeting Notes/Gold-Perovskite/Gold_Pero.png",
-    "Fleeting Notes/HTL-ETL Kontakt.md"
+    "Literature Notes/2019 Design of BCP buffer layer for inverted PSC.md",
+    "Literature Notes/2019 Reactions at noble metal contacts with methylammonium lead triiodide perovskites.md",
+    "Fleeting Notes/HTL-ETL Kontakt.md",
+    "Fleeting Notes/Gold-Perovskite/Gold-Perovskite interface ETL Defekt.md"
   ]
 }

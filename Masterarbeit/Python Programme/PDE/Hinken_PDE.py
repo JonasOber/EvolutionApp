@@ -89,7 +89,7 @@ ax.set_ylim(0,20)
 ax.set_aspect(1.0/ax.get_data_ratio(), adjustable='box')
 
 ax.legend()
-plt.savefig("PDE/pde_silicon.svg")
+plt.savefig("pde_silicon.png")
 
 
 
